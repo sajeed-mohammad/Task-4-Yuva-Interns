@@ -1,0 +1,1001 @@
+Order_ID,Warehouse,Customer_Location,Delivery_Distance_km,Transportation_Mode,Package_Weight_kg,Delivery_Priority,Weather_Condition,Traffic_Level,Warehouse_Processing_Time_min,Planned_Delivery_Time_hr,Actual_Delivery_Time_hr,Delivery_Delay
+ORD10001,WH-East,Suburban,16.4,Van,22.4,Standard,Rain,Medium,8.0,0.98,0.94,0
+ORD10002,WH-West,City Center,61.0,Express,21.8,Standard,Clear,High,51.3,2.6,4.82,1
+ORD10003,WH-North,City Center,39.0,Express,4.5,Standard,Rain,High,44.1,1.78,4.21,1
+ORD10004,WH-East,City Center,19.6,Van,25.2,High,Clear,Medium,14.1,1.42,1.37,0
+ORD10005,WH-East,West Zone,50.1,Bike,5.1,High,Clear,Medium,27.7,2.36,2.4,0
+ORD10006,WH-West,East Zone,5.1,Van,9.4,High,Clear,Low,53.8,0.57,2.03,1
+ORD10007,WH-North,West Zone,27.4,Van,7.8,Standard,Clear,Medium,52.4,1.61,1.59,0
+ORD10008,WH-North,East Zone,38.5,Bike,11.5,High,Cloudy,Medium,46.3,1.9,3.26,1
+ORD10009,WH-East,West Zone,13.5,Van,8.0,Standard,Clear,Medium,32.9,1.01,1.8,1
+ORD10010,WH-South,West Zone,78.8,Bike,14.9,Urgent,Clear,Medium,39.0,3.27,5.34,1
+ORD10011,WH-East,Suburban,18.3,Bike,12.5,High,Rain,Low,33.4,1.06,2.03,1
+ORD10012,WH-East,South Zone,12.2,Truck,29.6,Standard,Clear,Low,48.5,0.98,0.94,0
+ORD10013,WH-East,West Zone,17.9,Van,2.1,High,Rain,Medium,24.5,1.07,2.53,1
+ORD10014,WH-East,Suburban,62.0,Van,4.7,Standard,Clear,Low,25.3,2.93,4.33,1
+ORD10015,WH-West,North Zone,35.2,Bike,2.1,High,Cloudy,Low,47.1,1.6,3.04,1
+ORD10016,WH-North,South Zone,46.1,Express,19.0,Standard,Clear,High,34.5,2.33,3.58,1
+ORD10017,WH-West,West Zone,3.6,Bike,2.1,Standard,Clear,Medium,51.5,0.62,0.61,0
+ORD10018,WH-West,City Center,4.7,Van,25.2,High,Clear,Medium,26.9,0.7,0.67,0
+ORD10019,WH-West,North Zone,36.8,Bike,15.6,Standard,Clear,High,34.3,1.91,4.27,1
+ORD10020,WH-East,North Zone,65.7,Truck,16.0,High,Clear,High,23.9,2.77,5.07,1
+ORD10021,WH-South,Suburban,71.0,Bike,17.1,Standard,Cloudy,Medium,35.1,3.14,5.02,1
+ORD10022,WH-North,North Zone,8.8,Van,5.5,High,Rain,High,17.3,0.5,2.22,1
+ORD10023,WH-South,South Zone,44.0,Bike,6.3,High,Rain,Medium,29.1,1.99,3.97,1
+ORD10024,WH-West,West Zone,73.2,Truck,9.9,Standard,Cloudy,Medium,17.8,3.0,5.29,1
+ORD10025,WH-West,West Zone,32.3,Express,18.0,Standard,Clear,Medium,43.3,1.5,1.48,0
+ORD10026,WH-South,City Center,66.7,Van,6.7,Standard,Clear,Medium,43.6,2.86,4.49,1
+ORD10027,WH-South,Suburban,12.4,Bike,3.9,Standard,Clear,Medium,14.2,0.99,0.95,0
+ORD10028,WH-South,City Center,75.0,Express,29.1,Standard,Clear,Medium,51.0,3.26,5.26,1
+ORD10029,WH-West,North Zone,60.6,Van,1.1,High,Cloudy,Low,65.0,2.69,4.71,1
+ORD10030,WH-West,City Center,75.4,Express,24.2,Urgent,Cloudy,Medium,38.6,3.11,4.57,1
+ORD10031,WH-North,South Zone,54.8,Bike,23.7,High,Clear,Low,27.3,2.5,3.97,1
+ORD10032,WH-North,West Zone,30.3,Van,9.3,High,Clear,Medium,68.9,1.6,2.96,1
+ORD10033,WH-West,North Zone,75.2,Van,4.5,High,Rain,Medium,19.2,3.3,5.26,1
+ORD10034,WH-South,City Center,23.5,Bike,4.8,High,Rain,Medium,35.2,1.43,2.69,1
+ORD10035,WH-South,Suburban,27.9,Van,21.1,Standard,Clear,High,37.2,1.5,2.96,1
+ORD10036,WH-North,South Zone,56.7,Truck,19.5,Urgent,Rain,High,54.1,2.42,4.44,1
+ORD10037,WH-West,South Zone,61.7,Van,23.6,High,Storm,Medium,39.3,2.63,5.27,1
+ORD10038,WH-North,City Center,74.5,Bike,28.2,Standard,Clear,Medium,29.0,3.09,4.6,1
+ORD10039,WH-North,West Zone,18.0,Van,20.9,Standard,Clear,Medium,23.6,1.11,1.18,0
+ORD10040,WH-East,City Center,64.2,Express,5.1,Standard,Cloudy,Low,30.9,2.83,3.85,1
+ORD10041,WH-East,North Zone,59.6,Express,7.7,Standard,Rain,Low,22.9,2.71,4.1,1
+ORD10042,WH-East,City Center,7.0,Express,25.3,High,Rain,Low,35.6,0.74,1.74,1
+ORD10043,WH-South,South Zone,32.2,Bike,6.7,Standard,Clear,Medium,28.2,1.65,3.05,1
+ORD10044,WH-West,City Center,24.1,Van,2.6,Standard,Clear,Medium,17.1,1.38,2.47,1
+ORD10045,WH-West,West Zone,25.8,Bike,21.2,Urgent,Cloudy,High,53.1,1.36,2.89,1
+ORD10046,WH-West,Suburban,78.7,Van,12.4,Standard,Cloudy,Low,29.0,3.2,5.19,1
+ORD10047,WH-West,East Zone,52.1,Van,27.6,Standard,Clear,Low,19.8,2.15,3.29,1
+ORD10048,WH-East,City Center,58.0,Van,19.7,Standard,Rain,High,33.0,2.49,5.02,1
+ORD10049,WH-South,West Zone,78.2,Truck,3.2,High,Cloudy,Low,35.8,3.35,5.52,1
+ORD10050,WH-South,West Zone,31.4,Bike,28.5,Urgent,Rain,Medium,17.0,1.54,2.75,1
+ORD10051,WH-East,Suburban,64.5,Bike,8.1,Standard,Rain,Medium,39.0,2.78,5.56,1
+ORD10052,WH-South,South Zone,35.9,Truck,10.4,High,Cloudy,Medium,22.4,1.84,3.33,1
+ORD10053,WH-East,West Zone,69.8,Van,12.4,Standard,Clear,Low,55.5,3.06,4.94,1
+ORD10054,WH-West,West Zone,16.1,Express,2.0,Urgent,Cloudy,Low,44.3,0.95,0.93,0
+ORD10055,WH-East,West Zone,75.9,Truck,15.1,High,Clear,Low,30.2,3.33,5.67,1
+ORD10056,WH-West,West Zone,19.1,Truck,4.1,High,Cloudy,Medium,26.1,1.32,1.39,0
+ORD10057,WH-West,North Zone,27.4,Van,12.3,Standard,Clear,Medium,33.7,1.34,2.51,1
+ORD10058,WH-North,North Zone,61.0,Bike,10.8,Urgent,Cloudy,Low,45.4,2.58,4.28,1
+ORD10059,WH-East,South Zone,32.7,Bike,23.3,High,Clear,Medium,34.7,1.81,3.32,1
+ORD10060,WH-North,City Center,49.4,Van,24.2,Standard,Clear,High,32.4,2.25,3.78,1
+ORD10061,WH-East,West Zone,36.7,Van,5.0,High,Clear,Low,35.7,1.54,1.56,0
+ORD10062,WH-East,Suburban,59.9,Bike,11.3,Standard,Clear,Medium,27.8,2.47,4.42,1
+ORD10063,WH-North,City Center,19.8,Bike,11.5,High,Cloudy,Medium,30.9,1.18,1.2,0
+ORD10064,WH-North,Suburban,6.6,Van,5.0,Standard,Cloudy,Low,10.0,0.6,0.55,0
+ORD10065,WH-East,City Center,25.4,Express,24.1,High,Cloudy,Medium,46.7,1.36,2.74,1
+ORD10066,WH-South,South Zone,39.0,Van,21.4,Standard,Clear,Medium,38.6,1.9,3.25,1
+ORD10067,WH-West,West Zone,15.1,Truck,6.1,Standard,Clear,High,25.7,1.21,2.49,1
+ORD10068,WH-North,West Zone,29.7,Express,11.3,Standard,Clear,High,57.8,1.53,2.79,1
+ORD10069,WH-West,East Zone,33.2,Truck,3.6,Standard,Clear,Medium,36.0,1.81,3.17,1
+ORD10070,WH-South,Suburban,6.5,Bike,19.0,Standard,Rain,Medium,22.6,0.9,0.86,0
+ORD10071,WH-South,City Center,47.5,Truck,4.1,Standard,Clear,Medium,45.3,2.37,3.87,1
+ORD10072,WH-South,City Center,71.0,Van,29.6,Standard,Clear,Medium,39.8,3.07,5.02,1
+ORD10073,WH-North,North Zone,13.8,Express,23.5,Standard,Clear,Medium,39.7,0.76,0.78,0
+ORD10074,WH-South,East Zone,48.6,Truck,12.0,Standard,Clear,Low,29.9,2.29,3.76,1
+ORD10075,WH-North,North Zone,53.8,Express,17.6,High,Cloudy,Medium,40.4,2.55,3.92,1
+ORD10076,WH-South,North Zone,34.7,Van,27.4,Standard,Cloudy,Medium,31.9,1.73,3.19,1
+ORD10077,WH-West,North Zone,56.7,Van,16.8,Urgent,Clear,Medium,44.7,2.73,4.33,1
+ORD10078,WH-West,Suburban,34.0,Van,5.6,High,Clear,High,12.1,1.82,3.26,1
+ORD10079,WH-East,Suburban,41.4,Bike,11.7,High,Clear,Low,29.8,2.05,2.12,0
+ORD10080,WH-West,South Zone,2.6,Truck,25.4,Standard,Clear,Medium,55.7,0.72,1.99,1
+ORD10081,WH-East,South Zone,56.0,Express,19.5,Urgent,Clear,Low,28.8,2.54,3.58,1
+ORD10082,WH-West,North Zone,53.6,Truck,19.7,Standard,Storm,High,27.8,2.12,5.46,1
+ORD10083,WH-North,East Zone,5.0,Express,26.1,Standard,Cloudy,Medium,29.6,0.62,0.59,0
+ORD10084,WH-West,City Center,30.7,Van,26.9,Standard,Cloudy,Medium,20.4,1.74,1.77,0
+ORD10085,WH-East,Suburban,78.4,Express,27.6,High,Clear,Medium,8.5,3.2,4.7,1
+ORD10086,WH-East,East Zone,34.8,Bike,3.3,Standard,Clear,Medium,32.2,1.72,1.68,0
+ORD10087,WH-South,West Zone,41.2,Bike,16.6,Standard,Cloudy,High,36.6,1.85,3.93,1
+ORD10088,WH-North,Suburban,73.0,Bike,22.3,Urgent,Cloudy,Medium,37.4,3.32,5.41,1
+ORD10089,WH-West,Suburban,57.9,Bike,22.8,High,Cloudy,Medium,33.3,2.77,4.87,1
+ORD10090,WH-South,South Zone,47.4,Bike,18.4,Standard,Clear,High,35.5,2.09,4.12,1
+ORD10091,WH-West,City Center,64.2,Van,5.4,Standard,Cloudy,Low,47.3,2.81,4.3,1
+ORD10092,WH-West,City Center,69.4,Van,24.0,High,Clear,Low,32.7,2.9,4.36,1
+ORD10093,WH-South,West Zone,37.6,Express,21.7,Standard,Rain,Medium,28.1,1.92,3.17,1
+ORD10094,WH-South,West Zone,39.1,Bike,3.0,Standard,Cloudy,High,31.6,1.96,3.25,1
+ORD10095,WH-South,Suburban,32.1,Bike,14.2,Standard,Cloudy,Medium,42.0,1.74,3.78,1
+ORD10096,WH-South,North Zone,77.4,Truck,5.6,Urgent,Clear,Low,54.9,3.3,5.53,1
+ORD10097,WH-South,South Zone,56.4,Van,10.5,High,Cloudy,Medium,27.5,2.87,4.6,1
+ORD10098,WH-West,South Zone,8.5,Van,1.0,High,Clear,Medium,36.2,0.68,0.67,0
+ORD10099,WH-South,Suburban,69.3,Bike,12.3,High,Clear,Low,39.1,2.77,4.5,1
+ORD10100,WH-North,East Zone,39.5,Truck,16.7,Standard,Clear,Medium,23.1,1.86,3.25,1
+ORD10101,WH-East,North Zone,7.4,Van,18.8,Standard,Cloudy,High,35.2,0.58,1.54,1
+ORD10102,WH-South,Suburban,44.9,Truck,20.1,Standard,Clear,Medium,17.4,1.92,3.51,1
+ORD10103,WH-South,North Zone,34.5,Van,25.2,Standard,Clear,Medium,13.8,1.61,2.95,1
+ORD10104,WH-West,North Zone,70.5,Truck,6.9,Standard,Rain,Medium,39.4,2.91,5.2,1
+ORD10105,WH-South,North Zone,17.9,Van,4.1,High,Clear,Low,30.4,1.02,1.02,0
+ORD10106,WH-South,Suburban,66.5,Bike,25.6,High,Cloudy,High,37.4,2.94,5.48,1
+ORD10107,WH-South,South Zone,45.5,Van,5.1,Urgent,Clear,Medium,37.8,2.06,3.4,1
+ORD10108,WH-West,South Zone,6.3,Truck,29.3,Standard,Clear,Medium,23.3,0.7,1.64,1
+ORD10109,WH-South,North Zone,77.8,Van,25.4,High,Rain,Medium,34.5,3.39,5.94,1
+ORD10110,WH-East,East Zone,42.0,Van,15.3,High,Clear,Medium,20.2,1.91,3.11,1
+ORD10111,WH-West,City Center,24.7,Truck,29.5,Standard,Clear,Medium,51.7,1.35,2.91,1
+ORD10112,WH-East,Suburban,38.6,Truck,3.4,High,Cloudy,Low,18.7,1.92,1.88,0
+ORD10113,WH-West,City Center,68.9,Bike,9.4,Standard,Cloudy,High,32.7,2.73,5.17,1
+ORD10114,WH-South,East Zone,25.8,Van,19.3,Standard,Cloudy,High,22.5,1.14,2.68,1
+ORD10115,WH-East,Suburban,17.0,Bike,10.8,Standard,Clear,Medium,41.8,1.15,1.17,0
+ORD10116,WH-West,North Zone,12.1,Express,27.9,Standard,Clear,High,31.0,0.99,2.62,1
+ORD10117,WH-North,South Zone,25.2,Bike,2.4,Standard,Cloudy,Low,28.8,1.65,1.67,0
+ORD10118,WH-South,City Center,62.8,Van,16.7,High,Cloudy,Medium,45.2,2.76,4.38,1
+ORD10119,WH-West,West Zone,38.8,Truck,17.9,Urgent,Rain,Medium,38.4,1.98,4.36,1
+ORD10120,WH-North,West Zone,19.7,Van,19.8,High,Rain,Medium,41.2,1.18,2.54,1
+ORD10121,WH-West,East Zone,15.0,Van,8.0,High,Rain,Medium,23.2,1.07,1.14,0
+ORD10122,WH-North,North Zone,28.0,Express,11.3,Standard,Clear,Medium,18.1,1.7,1.68,0
+ORD10123,WH-South,City Center,75.3,Van,25.4,High,Clear,Low,36.3,2.93,4.97,1
+ORD10124,WH-East,North Zone,28.8,Truck,6.3,Standard,Rain,Medium,31.2,1.58,3.14,1
+ORD10125,WH-North,City Center,79.1,Bike,24.9,Standard,Clear,Low,42.5,3.58,6.28,1
+ORD10126,WH-West,East Zone,39.8,Bike,17.1,Standard,Clear,Medium,34.0,1.96,2.0,0
+ORD10127,WH-South,East Zone,16.0,Truck,23.0,Standard,Rain,Low,37.5,1.27,2.56,1
+ORD10128,WH-North,West Zone,71.5,Van,21.6,Standard,Rain,Low,15.5,2.98,5.19,1
+ORD10129,WH-West,North Zone,37.9,Van,6.6,Standard,Clear,Medium,57.7,1.85,3.44,1
+ORD10130,WH-West,Suburban,57.4,Truck,17.3,Standard,Clear,Medium,33.0,2.55,4.41,1
+ORD10131,WH-West,West Zone,78.7,Van,26.1,Urgent,Clear,High,46.4,3.04,5.56,1
+ORD10132,WH-North,North Zone,5.9,Truck,13.2,Standard,Rain,Medium,25.0,0.57,1.82,1
+ORD10133,WH-North,West Zone,9.5,Van,29.0,Standard,Rain,Medium,38.7,0.71,2.13,1
+ORD10134,WH-North,Suburban,58.2,Van,13.8,Standard,Clear,High,19.4,2.68,4.67,1
+ORD10135,WH-East,South Zone,24.0,Truck,4.7,High,Clear,Medium,40.4,1.46,2.85,1
+ORD10136,WH-North,South Zone,16.4,Van,12.0,Standard,Rain,Low,30.7,1.12,1.15,0
+ORD10137,WH-North,South Zone,5.1,Truck,28.6,Standard,Clear,Medium,35.4,0.78,0.75,0
+ORD10138,WH-North,South Zone,3.7,Bike,9.9,Standard,Cloudy,High,43.4,0.61,1.53,1
+ORD10139,WH-East,City Center,62.4,Bike,26.1,Standard,Storm,Medium,20.2,2.87,5.38,1
+ORD10140,WH-North,South Zone,12.5,Van,26.5,Standard,Clear,Low,26.8,0.95,0.96,0
+ORD10141,WH-West,Suburban,38.5,Van,10.8,Standard,Cloudy,Low,40.5,1.88,2.99,1
+ORD10142,WH-North,East Zone,49.3,Van,3.0,Standard,Clear,Low,60.2,2.23,4.18,1
+ORD10143,WH-West,East Zone,35.4,Bike,21.9,Standard,Clear,Medium,33.3,1.85,2.92,1
+ORD10144,WH-West,City Center,4.1,Bike,9.7,Standard,Rain,Medium,42.1,0.6,1.68,1
+ORD10145,WH-West,South Zone,63.1,Van,23.6,High,Clear,Low,33.7,2.87,4.3,1
+ORD10146,WH-East,South Zone,2.8,Express,13.6,Standard,Storm,High,58.3,0.5,2.43,1
+ORD10147,WH-East,South Zone,61.4,Van,14.8,Standard,Cloudy,High,14.0,2.56,4.66,1
+ORD10148,WH-East,West Zone,71.7,Truck,23.4,Standard,Clear,Medium,36.1,3.14,5.5,1
+ORD10149,WH-North,North Zone,35.8,Bike,11.8,Urgent,Clear,High,18.5,1.77,3.14,1
+ORD10150,WH-West,West Zone,43.8,Express,13.6,Standard,Clear,Low,8.0,2.01,2.06,0
+ORD10151,WH-East,North Zone,39.2,Bike,11.6,Standard,Clear,Medium,38.6,2.01,3.02,1
+ORD10152,WH-East,South Zone,32.4,Bike,11.3,High,Clear,Medium,36.7,1.58,2.53,1
+ORD10153,WH-North,South Zone,71.2,Van,16.0,Standard,Clear,High,31.6,3.02,5.29,1
+ORD10154,WH-East,West Zone,71.7,Bike,24.4,Standard,Clear,High,33.7,3.23,5.87,1
+ORD10155,WH-North,West Zone,28.2,Van,11.2,Standard,Cloudy,Low,72.2,1.69,1.7,0
+ORD10156,WH-South,North Zone,50.0,Express,16.0,High,Cloudy,High,31.9,2.47,4.3,1
+ORD10157,WH-East,East Zone,74.3,Truck,20.3,Standard,Cloudy,Low,41.1,3.12,5.26,1
+ORD10158,WH-South,North Zone,77.0,Bike,8.4,High,Clear,High,27.2,3.4,5.51,1
+ORD10159,WH-North,West Zone,41.7,Truck,8.7,Urgent,Clear,High,41.5,1.88,3.64,1
+ORD10160,WH-West,Suburban,37.3,Bike,28.0,Standard,Cloudy,Low,32.1,1.72,1.69,0
+ORD10161,WH-East,West Zone,23.7,Truck,21.8,Standard,Clear,Medium,30.1,1.06,1.02,0
+ORD10162,WH-North,Suburban,76.8,Bike,17.5,Standard,Clear,Low,56.8,3.44,5.51,1
+ORD10163,WH-West,City Center,13.1,Van,19.6,Standard,Rain,Medium,49.1,0.86,2.08,1
+ORD10164,WH-West,West Zone,47.2,Van,1.4,Standard,Rain,Medium,36.6,2.17,3.63,1
+ORD10165,WH-South,City Center,24.0,Van,18.7,Urgent,Cloudy,Medium,10.3,1.25,1.21,0
+ORD10166,WH-North,East Zone,23.8,Van,15.5,High,Clear,High,30.7,1.43,3.27,1
+ORD10167,WH-West,North Zone,33.6,Express,16.6,High,Rain,Medium,67.4,1.65,3.87,1
+ORD10168,WH-East,Suburban,79.9,Van,11.1,Standard,Cloudy,Medium,32.2,3.2,4.8,1
+ORD10169,WH-East,North Zone,6.3,Express,2.9,High,Rain,High,48.2,0.78,2.44,1
+ORD10170,WH-South,City Center,47.1,Van,6.2,Urgent,Rain,High,55.3,2.01,4.57,1
+ORD10171,WH-West,Suburban,8.4,Van,28.5,High,Rain,Low,37.6,0.7,0.78,0
+ORD10172,WH-North,North Zone,14.1,Bike,12.6,Standard,Cloudy,High,24.9,0.75,1.94,1
+ORD10173,WH-East,West Zone,36.3,Bike,14.3,High,Clear,Low,8.0,1.63,1.63,0
+ORD10174,WH-West,South Zone,41.8,Truck,2.1,Standard,Cloudy,High,43.2,2.01,4.24,1
+ORD10175,WH-West,City Center,22.2,Truck,1.6,Standard,Cloudy,Low,25.2,1.06,1.04,0
+ORD10176,WH-South,North Zone,26.7,Bike,21.7,Standard,Cloudy,Low,37.1,1.28,1.27,0
+ORD10177,WH-East,City Center,8.8,Van,16.4,High,Clear,Medium,20.0,0.81,0.84,0
+ORD10178,WH-East,City Center,25.7,Express,15.5,High,Clear,Medium,31.8,1.35,1.41,0
+ORD10179,WH-North,Suburban,77.4,Express,7.7,Standard,Rain,Medium,35.4,3.5,6.01,1
+ORD10180,WH-East,Suburban,75.7,Bike,22.5,Standard,Cloudy,Low,38.2,3.42,5.61,1
+ORD10181,WH-North,South Zone,28.1,Van,5.5,Standard,Rain,Medium,21.6,1.4,2.54,1
+ORD10182,WH-East,West Zone,46.5,Bike,6.1,Standard,Rain,High,49.4,2.23,4.83,1
+ORD10183,WH-South,City Center,72.9,Van,14.1,Standard,Cloudy,Medium,27.8,3.19,5.43,1
+ORD10184,WH-East,North Zone,2.5,Van,8.9,Standard,Cloudy,Low,14.9,0.52,0.49,0
+ORD10185,WH-North,East Zone,65.2,Van,7.8,High,Rain,Medium,33.7,2.65,4.7,1
+ORD10186,WH-North,City Center,76.0,Truck,19.5,Standard,Cloudy,Low,35.4,3.21,5.13,1
+ORD10187,WH-South,City Center,9.1,Express,19.7,Standard,Cloudy,High,36.9,0.8,1.92,1
+ORD10188,WH-East,South Zone,14.6,Bike,24.8,Standard,Clear,High,51.3,0.97,1.96,1
+ORD10189,WH-East,West Zone,76.9,Bike,12.8,Urgent,Clear,Medium,35.2,3.3,5.25,1
+ORD10190,WH-South,East Zone,43.9,Truck,2.7,High,Cloudy,Medium,33.6,1.98,3.7,1
+ORD10191,WH-East,Suburban,3.1,Van,8.6,High,Clear,High,21.8,0.5,1.97,1
+ORD10192,WH-East,Suburban,22.1,Truck,29.4,Standard,Clear,Medium,44.8,1.3,2.45,1
+ORD10193,WH-North,North Zone,37.1,Express,18.1,Standard,Clear,High,37.2,1.87,3.54,1
+ORD10194,WH-East,East Zone,56.0,Van,21.4,Standard,Clear,Medium,30.0,2.36,3.58,1
+ORD10195,WH-East,Suburban,59.2,Express,0.7,High,Clear,High,12.1,2.73,4.62,1
+ORD10196,WH-South,North Zone,79.6,Truck,15.8,Urgent,Clear,Medium,55.3,3.13,5.45,1
+ORD10197,WH-South,West Zone,24.4,Truck,1.6,High,Rain,Medium,20.3,1.3,2.77,1
+ORD10198,WH-West,North Zone,44.0,Bike,17.3,High,Cloudy,High,27.9,2.04,3.9,1
+ORD10199,WH-North,Suburban,43.6,Truck,27.7,High,Clear,Medium,39.3,1.98,3.43,1
+ORD10200,WH-East,South Zone,33.6,Express,29.1,Standard,Clear,Medium,20.6,1.63,1.62,0
+ORD10201,WH-East,South Zone,15.2,Express,16.4,Urgent,Cloudy,Low,20.1,1.27,1.23,0
+ORD10202,WH-West,South Zone,78.2,Truck,14.0,Standard,Clear,Medium,9.5,3.19,5.0,1
+ORD10203,WH-East,Suburban,68.6,Van,28.4,Standard,Rain,Medium,43.7,3.24,6.1,1
+ORD10204,WH-North,South Zone,40.9,Truck,20.4,Standard,Cloudy,Low,28.5,2.01,3.48,1
+ORD10205,WH-West,East Zone,49.1,Express,2.4,Standard,Rain,Low,70.1,2.26,3.71,1
+ORD10206,WH-North,West Zone,19.7,Van,14.2,Standard,Clear,Medium,23.1,1.26,1.33,0
+ORD10207,WH-West,North Zone,44.4,Bike,7.6,Standard,Cloudy,High,23.9,2.39,4.02,1
+ORD10208,WH-West,North Zone,56.2,Bike,14.4,Standard,Clear,Medium,28.2,2.39,3.89,1
+ORD10209,WH-South,Suburban,42.2,Bike,13.9,Standard,Rain,Low,37.9,1.87,4.12,1
+ORD10210,WH-North,South Zone,79.2,Van,17.7,Standard,Cloudy,Medium,29.4,3.24,5.11,1
+ORD10211,WH-East,South Zone,49.7,Bike,11.0,Standard,Clear,Low,42.3,2.28,3.55,1
+ORD10212,WH-East,City Center,30.9,Express,5.3,Standard,Clear,Medium,23.3,1.4,1.45,0
+ORD10213,WH-North,West Zone,62.2,Van,15.4,Standard,Clear,Low,18.4,2.72,2.79,0
+ORD10214,WH-East,East Zone,15.3,Van,25.0,High,Cloudy,Low,13.4,1.25,1.18,0
+ORD10215,WH-East,North Zone,32.0,Express,20.1,High,Clear,Low,8.3,1.66,1.64,0
+ORD10216,WH-North,City Center,29.1,Van,10.5,High,Cloudy,Medium,28.8,1.5,1.57,0
+ORD10217,WH-West,City Center,35.7,Express,28.1,High,Clear,Low,31.4,1.7,1.54,0
+ORD10218,WH-North,Suburban,63.0,Truck,27.4,Standard,Cloudy,Medium,27.4,2.86,4.74,1
+ORD10219,WH-West,North Zone,39.8,Van,6.7,High,Rain,Medium,49.9,1.82,4.25,1
+ORD10220,WH-East,Suburban,63.9,Express,1.7,Standard,Rain,Medium,49.7,3.0,5.22,1
+ORD10221,WH-East,East Zone,47.0,Truck,22.4,Standard,Rain,Medium,31.0,2.41,3.96,1
+ORD10222,WH-East,City Center,28.7,Truck,24.9,High,Clear,High,13.5,1.56,2.75,1
+ORD10223,WH-South,City Center,65.2,Truck,29.1,Standard,Clear,Low,28.2,2.83,4.3,1
+ORD10224,WH-West,West Zone,20.6,Truck,26.8,High,Cloudy,Medium,27.8,1.36,1.33,0
+ORD10225,WH-South,East Zone,19.5,Van,18.2,High,Clear,Low,27.1,1.33,1.33,0
+ORD10226,WH-South,City Center,41.4,Truck,16.1,High,Clear,Low,26.6,1.88,3.06,1
+ORD10227,WH-North,East Zone,22.3,Express,1.3,Urgent,Clear,Medium,30.2,1.23,1.18,0
+ORD10228,WH-South,North Zone,2.7,Van,7.8,Standard,Clear,Medium,30.4,0.5,0.46,0
+ORD10229,WH-North,South Zone,52.6,Bike,14.1,Standard,Clear,High,27.4,2.43,4.98,1
+ORD10230,WH-North,City Center,41.9,Van,19.0,Standard,Rain,Medium,37.5,2.08,4.36,1
+ORD10231,WH-South,West Zone,36.8,Bike,16.9,Standard,Clear,High,39.3,1.65,4.09,1
+ORD10232,WH-West,North Zone,77.4,Van,22.4,High,Cloudy,Low,24.1,3.21,4.54,1
+ORD10233,WH-West,East Zone,46.6,Express,8.8,High,Clear,Low,50.3,2.0,3.86,1
+ORD10234,WH-West,Suburban,69.3,Truck,17.2,High,Cloudy,Low,23.2,2.87,4.41,1
+ORD10235,WH-West,North Zone,12.9,Van,3.1,Standard,Clear,Low,15.6,1.03,1.0,0
+ORD10236,WH-West,City Center,46.4,Van,12.7,Standard,Rain,Medium,39.6,2.07,3.88,1
+ORD10237,WH-South,East Zone,69.7,Van,22.6,Standard,Rain,Medium,25.2,2.95,5.02,1
+ORD10238,WH-South,South Zone,47.5,Truck,21.0,Standard,Clear,Low,38.9,2.0,3.35,1
+ORD10239,WH-East,North Zone,58.0,Van,29.7,Urgent,Rain,High,9.2,2.59,4.32,1
+ORD10240,WH-West,City Center,31.0,Bike,8.7,Standard,Storm,High,51.7,1.6,4.41,1
+ORD10241,WH-South,West Zone,9.2,Truck,15.2,Standard,Rain,Low,43.1,0.74,2.21,1
+ORD10242,WH-East,Suburban,37.7,Van,10.2,Standard,Rain,Low,17.0,1.82,2.87,1
+ORD10243,WH-West,East Zone,32.8,Bike,13.5,High,Clear,Low,17.3,1.69,1.67,0
+ORD10244,WH-North,North Zone,69.6,Bike,25.8,High,Cloudy,Low,55.1,2.89,4.93,1
+ORD10245,WH-East,North Zone,21.0,Van,20.7,Standard,Clear,Low,26.2,1.07,1.08,0
+ORD10246,WH-South,South Zone,77.4,Van,26.5,Standard,Clear,Medium,25.0,3.48,4.85,1
+ORD10247,WH-North,South Zone,76.7,Van,6.5,Standard,Storm,Low,8.0,3.16,5.79,1
+ORD10248,WH-North,West Zone,21.3,Bike,26.3,Standard,Clear,Medium,30.8,1.25,1.29,0
+ORD10249,WH-North,Suburban,29.1,Bike,2.3,High,Cloudy,High,32.3,1.66,3.31,1
+ORD10250,WH-East,West Zone,71.9,Truck,26.7,High,Rain,Medium,43.6,3.49,6.51,1
+ORD10251,WH-South,City Center,77.4,Bike,10.2,Standard,Rain,High,18.2,3.11,5.58,1
+ORD10252,WH-North,City Center,36.6,Bike,9.8,Standard,Storm,Low,16.8,1.86,3.25,1
+ORD10253,WH-West,West Zone,27.0,Truck,15.6,Urgent,Clear,Medium,43.4,1.38,1.41,0
+ORD10254,WH-North,Suburban,43.0,Express,28.3,Standard,Clear,Medium,47.1,1.97,3.22,1
+ORD10255,WH-North,West Zone,55.6,Van,1.9,High,Clear,Low,16.1,2.4,3.82,1
+ORD10256,WH-East,Suburban,23.3,Van,10.9,Standard,Clear,Low,48.0,1.2,1.28,0
+ORD10257,WH-East,Suburban,59.4,Van,25.8,Standard,Clear,Medium,35.5,2.62,3.72,1
+ORD10258,WH-South,East Zone,6.0,Van,12.2,Standard,Clear,Medium,48.1,0.54,0.58,0
+ORD10259,WH-West,Suburban,5.8,Truck,6.4,Standard,Rain,Medium,34.2,0.82,0.8,0
+ORD10260,WH-East,South Zone,32.1,Express,13.0,Urgent,Cloudy,Medium,8.0,1.65,1.66,0
+ORD10261,WH-North,Suburban,29.6,Van,11.9,Standard,Clear,Medium,33.2,1.61,2.84,1
+ORD10262,WH-South,Suburban,26.6,Van,27.5,Standard,Cloudy,Low,47.7,1.39,1.36,0
+ORD10263,WH-North,Suburban,40.3,Truck,23.0,Standard,Clear,Medium,24.3,1.9,3.48,1
+ORD10264,WH-North,City Center,27.0,Express,15.4,Standard,Clear,Low,30.3,1.5,1.51,0
+ORD10265,WH-East,South Zone,17.0,Van,29.7,Standard,Rain,Low,32.9,0.97,1.01,0
+ORD10266,WH-South,South Zone,26.1,Truck,14.2,Standard,Cloudy,High,8.0,1.39,2.88,1
+ORD10267,WH-West,West Zone,78.0,Van,2.2,High,Rain,Medium,55.1,3.18,6.14,1
+ORD10268,WH-West,East Zone,34.1,Van,8.2,Standard,Clear,Medium,24.2,1.61,2.84,1
+ORD10269,WH-East,Suburban,36.7,Express,13.4,Standard,Rain,Medium,41.1,1.56,3.06,1
+ORD10270,WH-East,North Zone,47.0,Express,5.1,Urgent,Cloudy,Medium,37.0,2.34,3.68,1
+ORD10271,WH-South,East Zone,78.7,Van,28.5,Standard,Cloudy,Low,50.1,3.23,5.07,1
+ORD10272,WH-West,East Zone,20.8,Express,23.1,Urgent,Cloudy,Low,42.9,1.38,1.42,0
+ORD10273,WH-West,South Zone,55.1,Bike,8.4,Standard,Rain,Low,32.2,2.6,4.19,1
+ORD10274,WH-West,East Zone,57.8,Express,17.9,Urgent,Cloudy,High,27.3,2.41,4.4,1
+ORD10275,WH-North,Suburban,49.4,Truck,21.8,High,Cloudy,Medium,44.6,2.13,4.02,1
+ORD10276,WH-West,Suburban,8.9,Truck,28.3,High,Storm,Medium,12.5,1.13,2.61,1
+ORD10277,WH-North,City Center,54.8,Truck,26.5,Urgent,Rain,Medium,45.8,2.67,4.62,1
+ORD10278,WH-South,Suburban,7.0,Bike,15.7,Standard,Clear,High,21.8,0.75,2.19,1
+ORD10279,WH-North,Suburban,48.5,Van,23.4,Urgent,Cloudy,Low,53.0,2.26,4.11,1
+ORD10280,WH-South,South Zone,59.7,Van,17.1,Standard,Clear,Low,36.9,2.56,4.23,1
+ORD10281,WH-West,Suburban,18.5,Van,16.8,Standard,Clear,Medium,42.7,1.21,1.22,0
+ORD10282,WH-West,City Center,67.6,Bike,3.9,Standard,Cloudy,High,36.0,2.83,5.68,1
+ORD10283,WH-South,North Zone,4.4,Van,4.2,Standard,Rain,High,14.0,0.5,1.53,1
+ORD10284,WH-East,South Zone,67.8,Bike,16.1,Standard,Rain,Low,24.7,2.76,4.89,1
+ORD10285,WH-South,North Zone,37.9,Express,8.4,Standard,Clear,High,43.1,1.86,3.08,1
+ORD10286,WH-East,South Zone,19.0,Van,1.1,Standard,Cloudy,High,37.0,1.04,2.44,1
+ORD10287,WH-North,West Zone,12.4,Bike,21.8,High,Clear,Low,49.2,0.93,0.94,0
+ORD10288,WH-North,East Zone,76.4,Truck,1.5,High,Storm,Medium,39.8,3.1,6.05,1
+ORD10289,WH-North,West Zone,7.7,Express,18.1,Standard,Storm,Medium,23.4,0.68,2.14,1
+ORD10290,WH-West,Suburban,17.5,Van,16.4,Standard,Cloudy,High,25.4,1.23,2.87,1
+ORD10291,WH-North,North Zone,29.1,Bike,29.1,Standard,Rain,Low,36.2,1.57,2.72,1
+ORD10292,WH-East,Suburban,50.4,Bike,14.8,Standard,Cloudy,High,8.0,2.3,4.42,1
+ORD10293,WH-North,East Zone,44.5,Express,2.4,Standard,Cloudy,Medium,55.1,2.19,3.6,1
+ORD10294,WH-South,South Zone,11.8,Bike,16.8,Standard,Clear,Medium,40.3,0.98,1.93,1
+ORD10295,WH-South,East Zone,24.6,Truck,25.3,Standard,Clear,Medium,49.7,1.55,1.57,0
+ORD10296,WH-West,City Center,20.6,Bike,29.9,Urgent,Cloudy,Medium,19.0,1.18,2.85,1
+ORD10297,WH-South,East Zone,18.7,Express,13.2,Standard,Cloudy,High,49.9,1.12,2.96,1
+ORD10298,WH-East,City Center,34.1,Truck,9.9,Standard,Clear,High,61.8,1.56,3.6,1
+ORD10299,WH-North,East Zone,56.9,Van,27.2,Standard,Rain,High,19.1,2.48,4.46,1
+ORD10300,WH-West,City Center,19.0,Express,6.1,Standard,Clear,Low,44.3,1.29,1.25,0
+ORD10301,WH-North,North Zone,30.6,Bike,18.7,Standard,Cloudy,Medium,35.0,1.75,1.82,0
+ORD10302,WH-North,Suburban,32.5,Bike,12.5,High,Cloudy,Low,16.5,1.78,1.78,0
+ORD10303,WH-East,Suburban,78.2,Van,1.7,Standard,Cloudy,Medium,40.9,3.08,5.23,1
+ORD10304,WH-South,West Zone,76.5,Bike,10.7,Standard,Cloudy,Medium,45.0,3.36,5.29,1
+ORD10305,WH-South,Suburban,64.4,Truck,8.3,Urgent,Clear,Medium,30.8,2.58,4.77,1
+ORD10306,WH-North,South Zone,20.8,Bike,20.7,Urgent,Clear,Medium,52.0,1.35,2.63,1
+ORD10307,WH-West,East Zone,7.3,Van,28.5,High,Cloudy,High,15.0,0.72,1.94,1
+ORD10308,WH-South,West Zone,26.7,Bike,8.4,Standard,Cloudy,Low,17.1,1.54,1.59,0
+ORD10309,WH-West,South Zone,22.8,Express,24.4,High,Clear,Medium,36.6,1.15,1.21,0
+ORD10310,WH-South,South Zone,41.5,Van,2.1,Standard,Cloudy,Medium,35.3,2.12,3.57,1
+ORD10311,WH-West,City Center,62.7,Express,16.4,Standard,Clear,Low,26.4,2.56,3.47,1
+ORD10312,WH-East,Suburban,68.9,Truck,2.6,Standard,Cloudy,Low,44.7,2.88,4.32,1
+ORD10313,WH-West,North Zone,67.9,Express,28.1,Standard,Rain,High,41.4,2.81,5.89,1
+ORD10314,WH-East,North Zone,30.1,Bike,23.1,Standard,Clear,High,45.3,1.36,3.78,1
+ORD10315,WH-East,West Zone,55.6,Truck,19.9,Standard,Clear,High,33.5,2.5,4.66,1
+ORD10316,WH-West,North Zone,26.4,Bike,24.8,Urgent,Rain,High,45.2,1.66,4.36,1
+ORD10317,WH-East,East Zone,6.8,Express,19.6,Urgent,Cloudy,Low,32.7,1.06,1.09,0
+ORD10318,WH-North,North Zone,56.7,Truck,29.1,High,Cloudy,Medium,59.6,2.54,4.51,1
+ORD10319,WH-East,West Zone,2.8,Van,21.6,Standard,Rain,Medium,25.2,0.73,0.79,0
+ORD10320,WH-South,North Zone,33.9,Bike,27.8,High,Rain,Medium,60.3,1.74,4.07,1
+ORD10321,WH-West,East Zone,27.7,Bike,15.8,Standard,Storm,Medium,35.4,1.55,3.47,1
+ORD10322,WH-North,City Center,56.1,Bike,4.0,High,Cloudy,Medium,18.5,2.46,4.15,1
+ORD10323,WH-West,West Zone,61.8,Bike,16.1,Standard,Clear,Medium,51.4,2.73,4.53,1
+ORD10324,WH-South,City Center,25.7,Truck,4.2,High,Clear,Medium,36.5,1.48,2.51,1
+ORD10325,WH-South,City Center,65.3,Bike,18.0,Standard,Clear,Low,45.2,2.76,4.6,1
+ORD10326,WH-South,City Center,24.9,Van,14.7,High,Cloudy,Medium,49.7,1.38,2.39,1
+ORD10327,WH-East,South Zone,36.8,Truck,18.9,Urgent,Clear,Medium,42.1,1.81,3.17,1
+ORD10328,WH-East,Suburban,58.7,Van,0.8,Standard,Rain,Medium,27.9,2.7,5.15,1
+ORD10329,WH-West,South Zone,56.0,Van,6.2,Standard,Cloudy,Low,46.7,2.37,4.19,1
+ORD10330,WH-West,Suburban,79.0,Truck,15.0,Urgent,Cloudy,Medium,38.0,3.32,6.01,1
+ORD10331,WH-North,City Center,19.6,Truck,28.5,Standard,Clear,Low,43.2,1.43,1.39,0
+ORD10332,WH-North,West Zone,53.7,Bike,11.8,High,Clear,Medium,9.2,2.56,3.82,1
+ORD10333,WH-West,Suburban,49.6,Truck,13.0,Standard,Clear,High,40.4,2.43,4.77,1
+ORD10334,WH-East,East Zone,73.4,Truck,21.6,Standard,Clear,Medium,27.3,3.12,5.16,1
+ORD10335,WH-South,East Zone,14.2,Van,18.3,Standard,Clear,Low,54.8,1.05,1.05,0
+ORD10336,WH-West,North Zone,60.6,Truck,9.3,Standard,Cloudy,Medium,42.5,2.78,5.0,1
+ORD10337,WH-North,Suburban,46.3,Van,12.6,High,Rain,Medium,37.9,2.34,4.25,1
+ORD10338,WH-East,West Zone,23.4,Van,6.9,Standard,Rain,High,40.8,1.1,2.5,1
+ORD10339,WH-West,South Zone,39.0,Bike,29.0,Standard,Cloudy,Medium,23.0,1.74,2.65,1
+ORD10340,WH-West,City Center,28.0,Bike,4.4,Standard,Clear,Medium,54.5,1.66,2.86,1
+ORD10341,WH-East,North Zone,47.2,Bike,11.5,Standard,Rain,Medium,58.9,2.15,4.26,1
+ORD10342,WH-West,East Zone,71.3,Truck,1.3,High,Rain,Low,39.7,2.97,5.89,1
+ORD10343,WH-East,South Zone,46.4,Truck,7.0,Urgent,Clear,Low,57.1,2.01,3.52,1
+ORD10344,WH-South,South Zone,51.3,Express,23.5,Standard,Cloudy,Medium,28.2,2.27,3.46,1
+ORD10345,WH-East,City Center,42.5,Truck,6.4,High,Clear,Medium,25.4,1.85,3.21,1
+ORD10346,WH-East,Suburban,6.0,Truck,2.9,High,Rain,Medium,35.5,0.97,1.98,1
+ORD10347,WH-East,East Zone,20.2,Van,14.5,Standard,Storm,Low,40.2,1.22,3.07,1
+ORD10348,WH-West,West Zone,40.4,Van,0.8,Urgent,Clear,Low,33.3,1.94,2.91,1
+ORD10349,WH-West,South Zone,26.2,Truck,3.0,Standard,Rain,Medium,41.5,1.51,3.69,1
+ORD10350,WH-East,City Center,16.2,Truck,24.3,Standard,Cloudy,Low,38.7,1.19,1.23,0
+ORD10351,WH-West,West Zone,41.3,Truck,23.3,High,Storm,Medium,23.0,2.09,4.98,1
+ORD10352,WH-North,Suburban,27.2,Truck,27.5,Standard,Clear,Low,41.2,1.6,2.98,1
+ORD10353,WH-North,East Zone,22.1,Bike,25.7,High,Rain,Medium,45.4,1.21,2.47,1
+ORD10354,WH-West,Suburban,38.2,Bike,20.7,Urgent,Clear,High,40.1,1.83,4.31,1
+ORD10355,WH-West,South Zone,12.4,Bike,2.0,Standard,Clear,Low,48.8,1.04,1.03,0
+ORD10356,WH-East,West Zone,74.4,Bike,23.6,Urgent,Clear,Medium,23.4,3.09,4.87,1
+ORD10357,WH-South,West Zone,69.7,Express,25.4,Standard,Storm,Low,40.6,2.99,5.9,1
+ORD10358,WH-West,West Zone,57.2,Van,24.1,Standard,Rain,Medium,21.0,2.59,5.14,1
+ORD10359,WH-North,South Zone,10.3,Van,15.5,High,Rain,Medium,21.6,0.96,0.91,0
+ORD10360,WH-East,South Zone,62.5,Van,7.4,Urgent,Rain,Medium,30.4,2.52,4.57,1
+ORD10361,WH-West,Suburban,65.0,Bike,25.4,Standard,Clear,Medium,23.7,2.91,4.58,1
+ORD10362,WH-North,North Zone,61.9,Express,22.0,Standard,Clear,High,28.4,2.68,4.66,1
+ORD10363,WH-North,Suburban,10.9,Van,29.4,High,Clear,Low,32.4,0.97,1.04,0
+ORD10364,WH-South,East Zone,52.2,Express,5.1,High,Clear,Low,45.0,2.46,3.57,1
+ORD10365,WH-East,City Center,67.1,Van,7.2,High,Clear,High,31.1,3.09,5.37,1
+ORD10366,WH-East,West Zone,47.0,Express,6.7,Standard,Clear,Medium,16.0,2.34,3.83,1
+ORD10367,WH-South,North Zone,52.4,Truck,23.9,Standard,Clear,High,48.7,2.53,4.85,1
+ORD10368,WH-South,City Center,37.8,Van,6.0,Standard,Clear,Medium,25.0,2.02,3.45,1
+ORD10369,WH-East,North Zone,43.2,Truck,2.5,High,Clear,High,34.3,2.08,4.07,1
+ORD10370,WH-East,Suburban,4.7,Van,30.0,Standard,Clear,Medium,40.4,0.67,0.74,0
+ORD10371,WH-West,South Zone,51.8,Van,1.2,Standard,Storm,Medium,37.4,2.45,4.74,1
+ORD10372,WH-West,West Zone,8.4,Van,25.1,Urgent,Rain,High,51.1,0.89,2.6,1
+ORD10373,WH-South,Suburban,35.9,Bike,11.3,Standard,Storm,Medium,40.7,1.75,3.97,1
+ORD10374,WH-West,City Center,24.8,Truck,25.3,Urgent,Clear,Low,27.7,1.43,2.41,1
+ORD10375,WH-North,City Center,44.5,Van,16.9,High,Clear,Low,61.1,2.09,3.34,1
+ORD10376,WH-West,City Center,12.4,Bike,27.1,High,Rain,Low,37.3,0.84,0.81,0
+ORD10377,WH-West,City Center,55.9,Bike,27.8,Standard,Clear,Low,33.2,2.65,4.49,1
+ORD10378,WH-North,City Center,64.0,Van,0.8,Standard,Clear,Medium,46.6,2.79,4.95,1
+ORD10379,WH-South,North Zone,14.7,Truck,2.7,High,Clear,Medium,38.0,1.27,1.25,0
+ORD10380,WH-North,Suburban,10.1,Van,7.9,High,Clear,Medium,39.8,0.67,0.67,0
+ORD10381,WH-West,West Zone,13.4,Van,20.2,High,Clear,Medium,64.9,0.91,0.93,0
+ORD10382,WH-South,South Zone,70.4,Bike,26.7,Standard,Clear,Medium,31.7,3.02,4.7,1
+ORD10383,WH-West,South Zone,43.2,Van,14.1,High,Cloudy,Low,31.2,2.18,2.17,0
+ORD10384,WH-North,Suburban,38.4,Truck,18.4,High,Clear,Low,36.4,1.92,3.02,1
+ORD10385,WH-North,Suburban,10.3,Bike,6.1,High,Clear,Low,47.9,0.91,0.92,0
+ORD10386,WH-West,South Zone,52.7,Van,24.2,High,Rain,Medium,16.9,2.25,4.11,1
+ORD10387,WH-East,South Zone,69.7,Truck,29.0,High,Clear,Low,11.4,2.85,3.89,1
+ORD10388,WH-East,North Zone,66.6,Van,8.4,High,Clear,Low,28.0,2.92,4.22,1
+ORD10389,WH-North,East Zone,50.8,Express,15.1,Standard,Rain,Medium,15.4,2.15,3.54,1
+ORD10390,WH-North,West Zone,7.9,Truck,3.0,Standard,Clear,High,29.9,0.72,2.36,1
+ORD10391,WH-East,City Center,10.8,Bike,17.0,Standard,Clear,Low,41.0,0.95,0.96,0
+ORD10392,WH-East,East Zone,5.8,Truck,15.3,Standard,Clear,Medium,24.3,0.59,0.58,0
+ORD10393,WH-West,Suburban,22.1,Van,4.8,Standard,Clear,Medium,17.9,1.48,1.54,0
+ORD10394,WH-West,South Zone,12.6,Bike,13.5,Standard,Cloudy,High,35.8,1.1,3.03,1
+ORD10395,WH-East,East Zone,22.3,Express,10.4,Standard,Rain,High,45.4,1.11,2.45,1
+ORD10396,WH-West,West Zone,32.0,Bike,15.9,Standard,Clear,Low,14.7,1.53,1.53,0
+ORD10397,WH-West,Suburban,75.6,Bike,17.8,High,Cloudy,Low,44.8,2.93,4.86,1
+ORD10398,WH-South,City Center,49.6,Express,0.8,Urgent,Cloudy,High,47.8,2.18,4.82,1
+ORD10399,WH-West,City Center,67.1,Van,22.9,Standard,Clear,Medium,46.4,2.99,4.83,1
+ORD10400,WH-North,West Zone,57.4,Van,21.5,Urgent,Cloudy,Medium,52.6,2.5,4.29,1
+ORD10401,WH-West,West Zone,10.8,Bike,11.3,Standard,Clear,Medium,61.4,0.94,0.91,0
+ORD10402,WH-West,South Zone,59.4,Truck,2.1,Standard,Clear,Medium,30.7,2.44,4.31,1
+ORD10403,WH-East,City Center,23.5,Bike,22.8,Standard,Clear,High,36.3,1.44,3.16,1
+ORD10404,WH-North,Suburban,51.9,Express,28.7,Standard,Clear,High,30.0,2.29,4.14,1
+ORD10405,WH-West,East Zone,28.6,Truck,7.6,High,Clear,Medium,35.0,1.52,2.64,1
+ORD10406,WH-West,Suburban,79.8,Van,10.0,High,Rain,Low,53.4,3.34,5.51,1
+ORD10407,WH-South,North Zone,22.6,Bike,5.9,Standard,Clear,High,18.9,1.15,2.26,1
+ORD10408,WH-West,North Zone,23.8,Van,17.5,Standard,Clear,Low,24.7,1.21,1.22,0
+ORD10409,WH-West,West Zone,74.6,Bike,5.1,Standard,Clear,Low,51.5,3.28,4.86,1
+ORD10410,WH-South,South Zone,3.9,Truck,11.0,Standard,Cloudy,High,47.2,0.69,1.83,1
+ORD10411,WH-East,North Zone,56.3,Bike,21.1,Standard,Cloudy,Low,30.6,2.64,3.83,1
+ORD10412,WH-West,City Center,58.6,Van,17.0,Standard,Cloudy,Low,45.3,2.63,3.9,1
+ORD10413,WH-South,Suburban,67.2,Bike,11.9,High,Rain,Low,39.1,2.92,4.63,1
+ORD10414,WH-North,Suburban,78.0,Truck,12.9,Urgent,Rain,High,56.0,3.08,6.63,1
+ORD10415,WH-East,West Zone,78.1,Truck,17.1,Standard,Clear,Medium,35.9,3.26,5.5,1
+ORD10416,WH-North,East Zone,7.1,Van,0.7,Urgent,Cloudy,Medium,50.3,0.75,0.78,0
+ORD10417,WH-North,West Zone,66.1,Bike,2.8,Standard,Rain,Low,66.7,3.1,5.31,1
+ORD10418,WH-South,East Zone,52.4,Express,26.5,Standard,Storm,High,42.2,2.45,5.31,1
+ORD10419,WH-West,West Zone,52.5,Van,2.8,Standard,Rain,High,35.6,2.56,5.07,1
+ORD10420,WH-South,West Zone,12.0,Van,21.4,High,Clear,Medium,43.7,1.0,1.04,0
+ORD10421,WH-South,West Zone,52.7,Van,27.6,Urgent,Clear,Medium,33.6,2.3,3.34,1
+ORD10422,WH-South,East Zone,78.6,Bike,8.5,High,Clear,Low,63.7,3.32,5.59,1
+ORD10423,WH-South,East Zone,73.1,Bike,11.4,Standard,Cloudy,High,37.2,3.14,5.55,1
+ORD10424,WH-East,West Zone,36.3,Truck,17.3,High,Clear,Medium,31.7,1.68,2.97,1
+ORD10425,WH-West,North Zone,5.1,Van,26.5,Standard,Clear,High,25.0,0.64,1.77,1
+ORD10426,WH-North,South Zone,30.3,Truck,28.3,Urgent,Rain,Medium,51.2,1.56,3.74,1
+ORD10427,WH-North,South Zone,66.5,Truck,22.3,Standard,Clear,High,45.4,3.07,5.88,1
+ORD10428,WH-West,South Zone,56.7,Truck,3.1,Standard,Rain,High,29.0,2.28,4.99,1
+ORD10429,WH-North,East Zone,37.8,Express,20.2,Standard,Clear,Medium,41.9,1.99,3.4,1
+ORD10430,WH-West,East Zone,6.3,Van,12.6,High,Clear,High,16.9,0.61,1.82,1
+ORD10431,WH-North,North Zone,35.3,Bike,14.4,Standard,Clear,Medium,37.2,1.6,2.44,1
+ORD10432,WH-South,South Zone,38.6,Truck,1.9,High,Rain,Low,40.4,2.02,3.54,1
+ORD10433,WH-North,South Zone,74.4,Truck,6.1,Standard,Clear,Medium,55.5,3.24,5.21,1
+ORD10434,WH-West,West Zone,52.0,Bike,23.8,High,Clear,Medium,25.8,2.51,4.12,1
+ORD10435,WH-West,East Zone,26.3,Bike,13.9,High,Storm,Medium,19.7,1.54,3.4,1
+ORD10436,WH-West,South Zone,43.0,Express,9.4,High,Clear,Low,24.3,2.28,3.13,1
+ORD10437,WH-West,Suburban,7.2,Van,11.8,Standard,Cloudy,Medium,19.0,0.82,0.83,0
+ORD10438,WH-West,North Zone,77.9,Van,25.7,Standard,Cloudy,Medium,51.0,3.26,5.71,1
+ORD10439,WH-East,Suburban,30.1,Bike,22.6,Standard,Clear,Medium,53.6,1.62,2.65,1
+ORD10440,WH-East,Suburban,39.3,Truck,8.5,High,Cloudy,Medium,38.8,2.05,4.06,1
+ORD10441,WH-North,North Zone,29.7,Van,4.0,Standard,Clear,Medium,49.7,1.47,2.41,1
+ORD10442,WH-West,Suburban,55.2,Van,7.9,Standard,Cloudy,Low,36.6,2.39,3.92,1
+ORD10443,WH-North,South Zone,53.7,Van,27.7,Standard,Clear,Medium,33.9,2.38,3.55,1
+ORD10444,WH-West,East Zone,57.8,Express,17.7,Standard,Cloudy,Low,31.0,2.31,3.45,1
+ORD10445,WH-West,North Zone,22.9,Van,16.2,High,Clear,Low,31.3,1.33,1.41,0
+ORD10446,WH-East,West Zone,26.6,Van,18.1,Standard,Cloudy,High,16.4,1.22,2.67,1
+ORD10447,WH-East,Suburban,11.8,Van,11.3,High,Clear,High,38.2,0.93,2.21,1
+ORD10448,WH-South,North Zone,53.1,Truck,24.3,Standard,Clear,Medium,34.5,2.5,3.98,1
+ORD10449,WH-East,City Center,5.1,Van,15.9,Standard,Clear,High,43.9,0.62,0.63,0
+ORD10450,WH-South,City Center,48.6,Truck,3.9,Standard,Clear,High,36.1,2.44,4.82,1
+ORD10451,WH-South,East Zone,69.8,Van,4.3,Standard,Rain,High,33.0,2.82,5.5,1
+ORD10452,WH-South,South Zone,71.5,Bike,16.3,Standard,Clear,Low,24.5,3.2,4.68,1
+ORD10453,WH-South,East Zone,37.0,Van,28.1,High,Rain,High,35.9,1.9,4.19,1
+ORD10454,WH-South,East Zone,37.8,Truck,9.6,Standard,Storm,Medium,43.9,1.64,5.0,1
+ORD10455,WH-North,East Zone,8.0,Express,26.2,High,Cloudy,Medium,21.3,1.11,1.16,0
+ORD10456,WH-East,East Zone,54.3,Bike,23.0,Standard,Clear,Low,36.0,2.43,3.89,1
+ORD10457,WH-South,West Zone,66.1,Truck,7.8,Standard,Clear,Medium,37.8,2.76,4.9,1
+ORD10458,WH-West,West Zone,21.1,Van,1.6,High,Rain,Low,26.4,1.08,1.92,1
+ORD10459,WH-East,North Zone,34.9,Van,3.5,Standard,Clear,Low,27.9,1.72,1.69,0
+ORD10460,WH-East,City Center,67.4,Bike,22.0,Standard,Clear,Medium,37.8,2.89,4.66,1
+ORD10461,WH-South,East Zone,70.4,Express,6.4,Standard,Cloudy,High,21.4,3.03,5.12,1
+ORD10462,WH-North,North Zone,21.0,Bike,11.5,Standard,Rain,High,39.2,1.21,2.74,1
+ORD10463,WH-South,City Center,44.9,Truck,15.3,High,Rain,Medium,24.3,2.18,3.63,1
+ORD10464,WH-North,Suburban,17.0,Bike,21.9,Standard,Clear,High,47.8,1.06,2.3,1
+ORD10465,WH-West,South Zone,9.9,Truck,3.8,High,Cloudy,High,63.1,0.62,2.4,1
+ORD10466,WH-East,West Zone,73.1,Van,12.5,Urgent,Clear,High,27.7,3.09,5.73,1
+ORD10467,WH-West,Suburban,66.0,Truck,14.8,Standard,Clear,Low,41.4,2.57,4.76,1
+ORD10468,WH-North,City Center,61.3,Express,16.5,Urgent,Rain,Medium,29.3,2.73,4.78,1
+ORD10469,WH-North,Suburban,5.8,Van,24.6,Standard,Clear,High,47.5,0.59,0.57,0
+ORD10470,WH-West,South Zone,67.8,Bike,5.6,Urgent,Clear,Medium,22.8,2.94,4.15,1
+ORD10471,WH-North,City Center,36.2,Van,24.3,Standard,Clear,Medium,40.8,1.95,2.02,0
+ORD10472,WH-West,Suburban,28.7,Truck,20.9,High,Rain,Medium,24.5,1.41,2.55,1
+ORD10473,WH-East,West Zone,44.6,Van,16.9,Standard,Rain,Medium,32.5,2.22,3.69,1
+ORD10474,WH-West,West Zone,9.1,Truck,21.1,Standard,Cloudy,Medium,22.6,0.77,0.78,0
+ORD10475,WH-East,North Zone,61.0,Bike,12.7,High,Rain,Low,44.9,2.89,4.73,1
+ORD10476,WH-West,Suburban,47.4,Van,4.6,High,Clear,Medium,25.0,2.15,3.55,1
+ORD10477,WH-North,East Zone,16.6,Bike,20.1,Standard,Clear,High,41.6,0.99,2.3,1
+ORD10478,WH-West,Suburban,16.7,Bike,16.0,Standard,Clear,High,30.9,1.18,2.59,1
+ORD10479,WH-North,City Center,16.4,Express,19.4,High,Clear,Low,33.6,1.03,1.11,0
+ORD10480,WH-West,City Center,6.4,Van,10.5,High,Clear,High,36.8,0.63,0.68,0
+ORD10481,WH-West,Suburban,47.8,Truck,27.3,Urgent,Rain,Medium,28.9,2.15,4.33,1
+ORD10482,WH-South,South Zone,67.5,Van,17.8,High,Clear,Medium,37.5,2.91,4.69,1
+ORD10483,WH-North,West Zone,3.4,Express,3.0,Urgent,Clear,High,56.4,0.78,1.81,1
+ORD10484,WH-South,City Center,5.8,Express,13.8,High,Clear,High,25.7,0.5,1.51,1
+ORD10485,WH-North,West Zone,46.7,Truck,22.8,Standard,Clear,High,49.1,2.17,4.75,1
+ORD10486,WH-South,City Center,65.9,Bike,23.9,Standard,Rain,Medium,53.0,2.93,5.05,1
+ORD10487,WH-East,North Zone,27.5,Truck,15.1,High,Clear,High,25.2,1.51,3.12,1
+ORD10488,WH-West,East Zone,29.3,Bike,26.9,High,Clear,Low,17.5,1.7,1.75,0
+ORD10489,WH-North,City Center,48.5,Van,8.4,Standard,Rain,Medium,38.6,2.22,4.14,1
+ORD10490,WH-North,West Zone,23.4,Bike,12.6,Standard,Clear,Medium,28.4,1.31,2.51,1
+ORD10491,WH-West,North Zone,4.1,Van,27.0,Urgent,Clear,Medium,60.4,0.72,0.73,0
+ORD10492,WH-North,City Center,59.3,Bike,26.9,Standard,Clear,Low,35.4,2.63,4.53,1
+ORD10493,WH-North,South Zone,50.8,Bike,20.7,Standard,Cloudy,High,25.4,2.27,3.7,1
+ORD10494,WH-South,East Zone,47.3,Bike,25.8,Standard,Storm,Low,21.2,2.25,4.22,1
+ORD10495,WH-North,City Center,59.9,Van,3.1,Standard,Rain,Low,48.1,2.56,4.18,1
+ORD10496,WH-East,North Zone,54.7,Van,26.0,Standard,Clear,Medium,28.1,2.38,4.07,1
+ORD10497,WH-East,South Zone,18.1,Van,10.0,Standard,Rain,Medium,35.5,1.08,1.16,0
+ORD10498,WH-West,Suburban,29.5,Truck,5.8,Standard,Clear,High,46.5,1.72,3.77,1
+ORD10499,WH-North,North Zone,11.8,Van,7.6,High,Clear,Medium,29.2,0.53,0.5,0
+ORD10500,WH-West,North Zone,12.1,Express,12.8,Standard,Clear,Low,34.4,0.98,0.96,0
+ORD10501,WH-East,South Zone,54.7,Truck,7.9,High,Clear,High,34.8,2.46,4.35,1
+ORD10502,WH-North,North Zone,69.0,Van,10.0,High,Cloudy,Medium,43.2,2.76,4.55,1
+ORD10503,WH-North,South Zone,77.1,Truck,4.5,Standard,Cloudy,Low,42.1,3.29,5.6,1
+ORD10504,WH-West,City Center,51.0,Truck,9.2,High,Rain,Medium,32.4,2.38,4.3,1
+ORD10505,WH-East,South Zone,16.4,Bike,17.4,Standard,Cloudy,Medium,35.8,1.16,2.15,1
+ORD10506,WH-North,South Zone,10.2,Truck,13.5,Urgent,Cloudy,Medium,33.5,0.55,1.82,1
+ORD10507,WH-West,East Zone,65.4,Express,10.7,Standard,Clear,Medium,17.3,3.0,4.39,1
+ORD10508,WH-East,South Zone,47.1,Truck,22.5,High,Clear,High,38.1,2.09,4.13,1
+ORD10509,WH-West,South Zone,50.2,Express,26.9,High,Cloudy,High,57.7,2.38,4.69,1
+ORD10510,WH-South,Suburban,63.0,Express,22.8,Standard,Clear,Medium,24.4,2.84,4.1,1
+ORD10511,WH-North,City Center,56.9,Van,10.3,Standard,Rain,Low,25.7,2.43,3.98,1
+ORD10512,WH-South,East Zone,67.1,Express,22.5,High,Clear,High,24.6,2.98,4.64,1
+ORD10513,WH-East,Suburban,6.4,Van,5.0,High,Clear,Medium,43.7,0.68,0.72,0
+ORD10514,WH-South,West Zone,60.3,Bike,4.3,Standard,Clear,Medium,40.4,2.41,4.0,1
+ORD10515,WH-South,City Center,68.4,Truck,10.7,High,Clear,Medium,33.1,3.08,5.16,1
+ORD10516,WH-East,City Center,24.3,Express,24.3,Standard,Clear,High,24.0,1.27,1.26,0
+ORD10517,WH-West,West Zone,52.0,Express,7.8,High,Cloudy,Medium,36.1,2.25,3.88,1
+ORD10518,WH-South,South Zone,26.5,Bike,2.4,Standard,Clear,Low,16.2,1.4,1.44,0
+ORD10519,WH-West,Suburban,76.7,Bike,4.4,Urgent,Cloudy,Medium,39.7,3.27,5.34,1
+ORD10520,WH-South,North Zone,4.6,Van,25.8,Standard,Clear,High,45.5,0.66,1.99,1
+ORD10521,WH-West,East Zone,47.2,Van,19.2,Standard,Clear,Low,20.0,2.25,3.39,1
+ORD10522,WH-East,North Zone,15.0,Truck,8.0,Standard,Clear,High,16.6,0.87,2.21,1
+ORD10523,WH-South,West Zone,57.6,Van,16.9,Standard,Rain,Medium,54.0,2.47,4.29,1
+ORD10524,WH-East,City Center,15.7,Bike,16.1,Standard,Clear,Medium,27.7,1.05,2.56,1
+ORD10525,WH-South,City Center,20.4,Van,19.8,Standard,Rain,Low,48.6,1.46,2.9,1
+ORD10526,WH-East,East Zone,40.6,Express,7.4,High,Clear,Low,33.2,1.94,3.21,1
+ORD10527,WH-East,City Center,73.4,Bike,26.0,Standard,Rain,High,33.1,3.25,6.05,1
+ORD10528,WH-South,City Center,18.5,Bike,9.6,Standard,Clear,Low,40.3,1.17,1.23,0
+ORD10529,WH-South,East Zone,13.3,Van,21.0,Standard,Cloudy,High,24.4,0.92,1.78,1
+ORD10530,WH-South,Suburban,61.2,Express,1.0,Standard,Cloudy,Medium,36.6,2.66,4.59,1
+ORD10531,WH-North,Suburban,41.0,Express,11.5,Standard,Rain,Low,30.4,1.94,3.22,1
+ORD10532,WH-West,East Zone,73.1,Truck,10.9,Standard,Clear,Low,19.2,3.18,4.47,1
+ORD10533,WH-North,West Zone,13.4,Bike,16.5,Standard,Clear,Medium,39.0,1.14,1.1,0
+ORD10534,WH-North,City Center,52.4,Bike,2.6,Standard,Clear,High,31.8,2.41,4.74,1
+ORD10535,WH-East,City Center,20.2,Van,23.8,Standard,Rain,Medium,33.1,1.36,3.16,1
+ORD10536,WH-South,West Zone,14.2,Truck,6.9,Standard,Cloudy,Medium,20.5,0.89,2.07,1
+ORD10537,WH-West,Suburban,55.3,Truck,20.5,Standard,Rain,Medium,54.1,2.43,4.97,1
+ORD10538,WH-East,South Zone,48.3,Van,24.2,Standard,Clear,Medium,45.5,2.14,3.55,1
+ORD10539,WH-North,South Zone,60.9,Truck,17.1,Urgent,Clear,Medium,49.6,2.71,3.78,1
+ORD10540,WH-South,South Zone,26.1,Van,22.4,Standard,Clear,High,31.3,1.39,2.83,1
+ORD10541,WH-East,Suburban,36.9,Van,20.0,High,Storm,Medium,14.2,1.91,3.89,1
+ORD10542,WH-South,Suburban,33.6,Van,11.0,Standard,Cloudy,Medium,58.4,1.59,3.03,1
+ORD10543,WH-East,West Zone,78.8,Express,24.4,High,Rain,Low,34.3,3.32,5.31,1
+ORD10544,WH-South,City Center,24.8,Truck,9.2,High,Clear,High,26.0,1.47,2.63,1
+ORD10545,WH-North,West Zone,25.0,Express,17.4,Standard,Cloudy,Low,40.0,1.15,1.21,0
+ORD10546,WH-West,West Zone,29.7,Truck,22.5,Urgent,Cloudy,Low,52.0,1.82,3.18,1
+ORD10547,WH-North,Suburban,46.0,Van,11.7,Standard,Clear,Medium,34.7,2.11,3.6,1
+ORD10548,WH-West,South Zone,21.7,Truck,9.4,Standard,Rain,Medium,50.3,1.03,3.13,1
+ORD10549,WH-South,North Zone,73.4,Truck,14.1,High,Rain,Medium,48.0,3.14,5.96,1
+ORD10550,WH-East,City Center,22.7,Van,24.6,High,Rain,Medium,22.1,1.31,2.16,1
+ORD10551,WH-North,Suburban,71.9,Bike,27.9,Standard,Cloudy,High,26.9,3.06,5.59,1
+ORD10552,WH-West,South Zone,10.1,Van,16.6,Standard,Clear,Low,46.5,0.98,0.93,0
+ORD10553,WH-North,North Zone,53.2,Bike,20.0,Standard,Clear,High,8.0,2.49,4.23,1
+ORD10554,WH-West,North Zone,72.7,Bike,27.1,Standard,Storm,Medium,33.2,3.13,6.32,1
+ORD10555,WH-North,Suburban,15.2,Van,3.4,High,Clear,Medium,17.8,1.1,1.08,0
+ORD10556,WH-West,East Zone,77.5,Van,7.3,Standard,Cloudy,Medium,29.3,3.26,5.99,1
+ORD10557,WH-West,City Center,37.3,Bike,21.4,Standard,Cloudy,Low,31.4,2.05,3.35,1
+ORD10558,WH-South,North Zone,75.8,Truck,24.8,Standard,Cloudy,High,30.7,3.03,5.78,1
+ORD10559,WH-West,Suburban,54.8,Van,25.8,Standard,Storm,Medium,28.4,2.47,4.07,1
+ORD10560,WH-South,Suburban,25.5,Express,12.7,Standard,Clear,Medium,21.8,1.42,2.29,1
+ORD10561,WH-West,South Zone,16.7,Van,3.1,High,Clear,Medium,62.5,1.19,1.17,0
+ORD10562,WH-East,East Zone,25.7,Bike,13.4,Urgent,Clear,High,60.4,1.32,2.84,1
+ORD10563,WH-East,City Center,9.3,Express,7.3,High,Clear,Medium,21.1,0.62,0.6,0
+ORD10564,WH-East,West Zone,13.2,Van,9.1,Standard,Clear,High,54.0,0.99,2.43,1
+ORD10565,WH-West,South Zone,10.2,Van,23.3,Urgent,Clear,Medium,33.2,0.9,0.96,0
+ORD10566,WH-South,North Zone,35.0,Van,2.7,High,Rain,Low,36.6,1.93,1.99,0
+ORD10567,WH-South,North Zone,64.1,Van,24.9,High,Rain,Low,34.2,2.64,4.19,1
+ORD10568,WH-West,South Zone,13.0,Van,13.1,Standard,Clear,Medium,27.1,1.1,1.13,0
+ORD10569,WH-East,Suburban,12.2,Bike,18.1,Standard,Clear,Low,46.8,1.22,1.29,0
+ORD10570,WH-East,North Zone,52.2,Van,3.1,Standard,Rain,Low,36.5,2.32,4.02,1
+ORD10571,WH-South,East Zone,17.4,Truck,10.5,Standard,Clear,High,29.3,0.97,2.3,1
+ORD10572,WH-East,City Center,9.6,Express,3.1,Standard,Clear,High,19.3,0.79,0.74,0
+ORD10573,WH-North,East Zone,15.0,Bike,28.9,Standard,Clear,Medium,24.3,1.04,1.12,0
+ORD10574,WH-South,North Zone,74.1,Bike,24.3,Standard,Cloudy,Low,15.3,3.21,4.93,1
+ORD10575,WH-East,West Zone,66.1,Van,14.1,High,Clear,Low,35.1,2.79,4.75,1
+ORD10576,WH-South,City Center,29.6,Bike,7.1,Standard,Storm,Low,20.6,1.74,2.99,1
+ORD10577,WH-North,City Center,53.2,Truck,28.0,Standard,Clear,Medium,31.8,2.27,3.78,1
+ORD10578,WH-South,South Zone,43.9,Truck,10.7,Urgent,Cloudy,High,54.4,1.86,3.78,1
+ORD10579,WH-South,South Zone,54.8,Van,5.2,Urgent,Clear,Medium,52.4,2.59,3.82,1
+ORD10580,WH-South,West Zone,55.2,Express,17.1,High,Clear,Low,34.6,2.2,3.47,1
+ORD10581,WH-South,Suburban,51.0,Truck,28.3,Urgent,Cloudy,Medium,37.0,2.3,4.3,1
+ORD10582,WH-North,City Center,22.8,Van,0.6,Standard,Rain,Medium,57.6,1.69,3.19,1
+ORD10583,WH-West,West Zone,5.0,Truck,7.5,Urgent,Rain,Medium,44.2,0.68,2.04,1
+ORD10584,WH-South,South Zone,37.5,Truck,28.2,Standard,Cloudy,Medium,31.1,1.7,2.98,1
+ORD10585,WH-South,South Zone,71.5,Bike,5.5,Standard,Rain,Medium,17.9,3.05,5.1,1
+ORD10586,WH-East,City Center,46.4,Bike,3.8,Standard,Rain,Low,39.7,2.15,4.32,1
+ORD10587,WH-South,East Zone,66.9,Bike,17.3,Standard,Rain,Low,45.0,2.91,4.76,1
+ORD10588,WH-East,North Zone,79.3,Van,25.9,Standard,Clear,High,27.4,3.41,6.11,1
+ORD10589,WH-West,South Zone,14.8,Truck,14.6,High,Clear,Low,38.5,0.9,0.93,0
+ORD10590,WH-North,Suburban,56.0,Truck,29.8,High,Clear,Low,30.6,2.7,2.67,0
+ORD10591,WH-North,Suburban,54.6,Van,20.5,Standard,Cloudy,Low,32.8,2.48,2.45,0
+ORD10592,WH-West,South Zone,78.4,Van,2.7,Standard,Clear,Low,8.0,3.39,4.59,1
+ORD10593,WH-North,East Zone,78.9,Bike,29.8,High,Clear,Medium,32.3,3.24,5.72,1
+ORD10594,WH-West,East Zone,55.6,Van,12.5,High,Rain,High,46.6,2.64,5.41,1
+ORD10595,WH-West,West Zone,21.0,Truck,9.0,Standard,Rain,Medium,27.4,1.22,2.94,1
+ORD10596,WH-West,Suburban,64.3,Van,17.0,High,Rain,Medium,35.6,2.83,4.56,1
+ORD10597,WH-North,West Zone,10.3,Van,9.5,Standard,Clear,Medium,25.9,0.76,1.93,1
+ORD10598,WH-East,Suburban,62.9,Van,3.1,Standard,Cloudy,Medium,39.3,2.63,4.02,1
+ORD10599,WH-West,North Zone,73.0,Express,0.5,Urgent,Clear,High,35.4,3.19,5.61,1
+ORD10600,WH-South,North Zone,31.9,Bike,13.8,Standard,Clear,High,23.7,1.59,3.1,1
+ORD10601,WH-North,City Center,51.2,Express,25.2,Standard,Clear,Low,51.0,2.23,3.28,1
+ORD10602,WH-West,West Zone,35.6,Truck,17.4,Urgent,Clear,High,49.1,1.69,3.99,1
+ORD10603,WH-West,South Zone,36.1,Van,30.0,High,Clear,Medium,27.7,1.87,1.91,0
+ORD10604,WH-South,West Zone,26.2,Truck,9.0,Standard,Rain,High,41.0,1.36,3.12,1
+ORD10605,WH-East,South Zone,61.4,Truck,8.8,Standard,Clear,Medium,41.4,2.68,4.66,1
+ORD10606,WH-East,East Zone,75.0,Bike,5.2,Standard,Cloudy,High,42.7,3.18,5.69,1
+ORD10607,WH-East,West Zone,75.4,Van,5.3,High,Cloudy,High,14.7,2.96,6.42,1
+ORD10608,WH-West,East Zone,15.6,Truck,8.9,Standard,Clear,Low,47.1,0.88,1.61,1
+ORD10609,WH-West,North Zone,70.2,Van,23.9,Standard,Clear,Medium,28.2,3.05,4.6,1
+ORD10610,WH-West,North Zone,59.5,Van,27.2,Urgent,Clear,High,33.7,2.54,4.54,1
+ORD10611,WH-North,City Center,21.7,Bike,29.3,Standard,Cloudy,High,66.7,1.4,2.7,1
+ORD10612,WH-South,West Zone,7.2,Truck,7.4,Standard,Clear,Low,38.6,0.87,0.88,0
+ORD10613,WH-West,East Zone,22.9,Truck,26.5,Standard,Clear,Medium,30.4,1.4,2.45,1
+ORD10614,WH-South,South Zone,73.2,Truck,10.2,High,Clear,Medium,8.5,3.33,5.53,1
+ORD10615,WH-South,North Zone,51.4,Truck,3.8,Standard,Cloudy,Low,51.7,2.33,4.16,1
+ORD10616,WH-East,North Zone,58.2,Bike,26.2,Standard,Rain,Medium,18.9,2.66,4.57,1
+ORD10617,WH-North,South Zone,22.1,Express,19.3,High,Clear,Low,23.0,1.22,1.26,0
+ORD10618,WH-West,East Zone,58.1,Express,5.4,Standard,Cloudy,High,31.0,2.87,4.92,1
+ORD10619,WH-East,East Zone,4.2,Bike,13.2,Standard,Cloudy,Medium,52.0,0.89,0.91,0
+ORD10620,WH-East,West Zone,31.3,Van,9.0,Standard,Rain,High,44.3,1.62,4.39,1
+ORD10621,WH-West,West Zone,50.9,Bike,22.2,Standard,Rain,Low,33.1,2.36,3.99,1
+ORD10622,WH-South,Suburban,13.4,Truck,13.9,Standard,Cloudy,Medium,38.7,1.14,2.0,1
+ORD10623,WH-East,Suburban,66.2,Van,29.7,Standard,Cloudy,Low,27.8,2.85,2.93,0
+ORD10624,WH-South,City Center,20.3,Bike,2.1,Standard,Rain,Low,36.7,1.15,2.17,1
+ORD10625,WH-North,North Zone,52.9,Van,11.0,Standard,Clear,Low,35.9,2.49,3.84,1
+ORD10626,WH-South,West Zone,33.6,Express,14.7,High,Clear,Low,46.6,1.71,1.77,0
+ORD10627,WH-North,East Zone,48.5,Truck,15.3,Urgent,Clear,Medium,49.6,2.25,3.96,1
+ORD10628,WH-South,South Zone,10.4,Bike,9.8,High,Rain,Low,40.9,0.77,1.8,1
+ORD10629,WH-East,East Zone,3.3,Bike,22.0,High,Rain,Medium,30.7,0.5,0.52,0
+ORD10630,WH-East,North Zone,72.9,Express,26.3,Standard,Clear,Medium,43.9,3.13,5.37,1
+ORD10631,WH-North,Suburban,23.0,Bike,28.2,Urgent,Cloudy,High,36.9,1.43,2.73,1
+ORD10632,WH-West,East Zone,65.9,Bike,24.3,Standard,Clear,High,22.0,2.83,5.05,1
+ORD10633,WH-North,City Center,79.9,Van,25.6,Urgent,Clear,Medium,33.2,3.53,5.15,1
+ORD10634,WH-North,North Zone,18.5,Truck,16.7,Urgent,Storm,Medium,39.0,1.08,3.12,1
+ORD10635,WH-South,Suburban,22.7,Van,24.9,High,Clear,Low,45.9,1.18,2.45,1
+ORD10636,WH-South,South Zone,53.7,Bike,9.5,Urgent,Clear,High,35.8,2.41,4.79,1
+ORD10637,WH-North,Suburban,77.3,Truck,12.3,Standard,Cloudy,Low,20.5,3.25,4.77,1
+ORD10638,WH-East,City Center,73.4,Bike,9.8,Standard,Cloudy,Low,35.7,3.21,5.24,1
+ORD10639,WH-South,North Zone,41.2,Van,14.3,Standard,Clear,Low,36.4,1.88,1.91,0
+ORD10640,WH-West,South Zone,64.0,Van,8.9,Standard,Cloudy,Medium,37.2,2.95,5.15,1
+ORD10641,WH-South,City Center,12.6,Bike,28.9,Standard,Cloudy,Low,46.0,1.19,1.24,0
+ORD10642,WH-South,Suburban,78.2,Van,9.7,High,Clear,High,47.2,3.29,5.19,1
+ORD10643,WH-West,City Center,77.2,Van,3.4,Urgent,Clear,Low,30.9,3.41,4.74,1
+ORD10644,WH-North,North Zone,14.8,Van,16.0,Standard,Cloudy,Medium,27.6,0.9,1.56,1
+ORD10645,WH-West,West Zone,25.4,Express,2.2,High,Clear,Low,22.5,1.54,1.54,0
+ORD10646,WH-North,City Center,9.8,Bike,3.8,Urgent,Rain,Low,46.4,0.98,0.94,0
+ORD10647,WH-North,City Center,23.2,Truck,7.0,Urgent,Rain,High,55.4,1.43,3.56,1
+ORD10648,WH-North,Suburban,65.6,Van,14.2,Urgent,Storm,Low,34.2,2.84,4.89,1
+ORD10649,WH-West,Suburban,31.5,Van,13.3,Standard,Clear,High,32.1,1.27,2.7,1
+ORD10650,WH-North,South Zone,8.9,Bike,24.1,Urgent,Storm,Medium,55.6,0.74,3.34,1
+ORD10651,WH-East,Suburban,28.7,Bike,22.3,High,Clear,Low,41.1,1.45,2.61,1
+ORD10652,WH-West,East Zone,78.5,Van,13.1,Standard,Clear,High,40.2,3.19,6.47,1
+ORD10653,WH-East,North Zone,51.1,Van,10.3,Standard,Clear,Low,20.7,2.34,3.73,1
+ORD10654,WH-North,North Zone,34.5,Van,9.8,High,Clear,High,43.1,1.68,3.58,1
+ORD10655,WH-South,West Zone,15.0,Bike,23.3,Standard,Cloudy,Low,23.9,0.94,1.79,1
+ORD10656,WH-North,West Zone,78.9,Bike,2.0,High,Clear,High,21.4,3.19,5.73,1
+ORD10657,WH-East,North Zone,66.0,Van,0.9,High,Clear,Low,30.8,2.77,4.09,1
+ORD10658,WH-East,West Zone,24.0,Van,24.0,Standard,Cloudy,Medium,28.0,1.49,2.52,1
+ORD10659,WH-West,South Zone,7.5,Van,14.6,Standard,Clear,High,32.3,0.69,2.16,1
+ORD10660,WH-South,Suburban,6.4,Express,4.4,High,Cloudy,High,17.7,0.67,0.71,0
+ORD10661,WH-West,North Zone,11.4,Van,7.4,Standard,Clear,High,46.5,0.85,1.94,1
+ORD10662,WH-East,West Zone,47.3,Bike,28.0,Standard,Rain,High,48.5,2.23,4.69,1
+ORD10663,WH-North,North Zone,74.4,Bike,25.9,Standard,Rain,High,11.6,3.21,6.33,1
+ORD10664,WH-South,East Zone,40.7,Truck,21.4,Standard,Clear,Low,46.7,1.59,3.15,1
+ORD10665,WH-North,City Center,67.7,Van,14.7,Urgent,Clear,Low,28.3,3.04,4.09,1
+ORD10666,WH-North,Suburban,36.8,Van,15.8,Standard,Clear,Low,45.3,1.99,3.47,1
+ORD10667,WH-South,North Zone,57.3,Bike,29.3,High,Rain,Medium,34.2,2.42,4.35,1
+ORD10668,WH-West,City Center,59.1,Bike,29.0,Standard,Clear,Medium,35.3,2.49,4.18,1
+ORD10669,WH-North,West Zone,15.6,Bike,6.9,Standard,Clear,Medium,32.8,1.0,1.08,0
+ORD10670,WH-East,City Center,30.2,Truck,24.4,High,Clear,Low,49.5,1.49,3.21,1
+ORD10671,WH-North,Suburban,51.7,Van,6.3,High,Clear,Medium,20.1,2.37,3.81,1
+ORD10672,WH-South,North Zone,7.5,Express,6.8,Standard,Clear,Low,42.3,0.53,0.52,0
+ORD10673,WH-South,East Zone,30.2,Bike,20.4,Standard,Rain,Medium,48.2,1.44,3.34,1
+ORD10674,WH-South,West Zone,43.7,Van,12.4,Standard,Clear,Medium,43.6,2.25,3.66,1
+ORD10675,WH-West,North Zone,79.7,Express,28.0,Standard,Clear,High,62.9,3.24,5.88,1
+ORD10676,WH-North,Suburban,39.0,Bike,3.1,High,Rain,Medium,28.7,2.04,3.83,1
+ORD10677,WH-West,West Zone,65.7,Truck,15.6,Standard,Rain,Medium,46.5,2.89,5.17,1
+ORD10678,WH-West,South Zone,35.7,Bike,27.6,Standard,Clear,Low,33.7,1.56,1.51,0
+ORD10679,WH-South,City Center,64.1,Bike,27.2,Standard,Clear,Medium,49.8,2.87,4.17,1
+ORD10680,WH-South,Suburban,48.4,Bike,5.1,Urgent,Clear,Low,37.9,2.21,2.19,0
+ORD10681,WH-West,South Zone,71.2,Van,11.3,Urgent,Rain,Medium,33.3,2.99,5.82,1
+ORD10682,WH-North,North Zone,34.1,Van,18.8,Standard,Clear,Medium,50.7,1.75,3.28,1
+ORD10683,WH-East,East Zone,49.1,Express,5.2,High,Rain,Low,29.1,2.31,3.8,1
+ORD10684,WH-West,West Zone,51.1,Van,29.1,Standard,Cloudy,Low,18.0,2.41,3.91,1
+ORD10685,WH-North,City Center,34.6,Truck,27.5,Standard,Cloudy,High,28.8,1.88,3.63,1
+ORD10686,WH-South,West Zone,13.3,Truck,5.4,High,Clear,High,42.4,1.02,2.54,1
+ORD10687,WH-South,North Zone,9.3,Truck,4.1,Urgent,Clear,Medium,54.7,0.67,1.68,1
+ORD10688,WH-North,West Zone,3.3,Bike,3.0,Urgent,Clear,Low,39.3,0.56,0.61,0
+ORD10689,WH-East,City Center,70.1,Express,27.3,Standard,Clear,Low,50.8,3.36,4.94,1
+ORD10690,WH-South,North Zone,20.4,Van,6.2,Standard,Cloudy,Medium,18.7,1.32,2.28,1
+ORD10691,WH-South,West Zone,18.5,Van,12.8,High,Storm,High,29.7,1.45,3.77,1
+ORD10692,WH-South,East Zone,59.4,Van,13.7,Standard,Cloudy,Low,31.5,2.79,4.39,1
+ORD10693,WH-North,Suburban,27.0,Express,18.2,Standard,Cloudy,High,33.6,1.49,3.2,1
+ORD10694,WH-West,North Zone,41.5,Bike,2.6,Standard,Clear,Low,36.0,2.02,3.44,1
+ORD10695,WH-South,Suburban,14.7,Van,7.2,High,Clear,High,43.3,1.02,2.16,1
+ORD10696,WH-West,North Zone,76.9,Bike,28.0,Standard,Clear,Medium,29.7,3.04,4.61,1
+ORD10697,WH-East,East Zone,68.4,Express,27.3,Standard,Cloudy,High,36.7,2.95,5.27,1
+ORD10698,WH-South,Suburban,69.4,Bike,23.5,Urgent,Rain,Medium,37.5,3.12,5.46,1
+ORD10699,WH-South,South Zone,33.7,Express,1.1,Standard,Cloudy,Medium,23.9,1.63,1.69,0
+ORD10700,WH-East,City Center,61.5,Van,10.1,Standard,Clear,Low,33.6,2.75,4.05,1
+ORD10701,WH-South,South Zone,13.2,Bike,19.0,Standard,Clear,Low,33.3,1.07,2.3,1
+ORD10702,WH-West,West Zone,2.7,Truck,8.6,Standard,Cloudy,High,33.0,0.5,0.57,0
+ORD10703,WH-North,East Zone,3.6,Bike,27.3,Standard,Clear,High,35.4,0.57,0.53,0
+ORD10704,WH-West,South Zone,47.8,Bike,19.2,Standard,Rain,High,35.9,2.08,4.63,1
+ORD10705,WH-North,North Zone,37.5,Bike,2.6,High,Rain,Medium,29.8,1.74,3.29,1
+ORD10706,WH-North,West Zone,42.4,Bike,27.3,Standard,Cloudy,High,50.3,1.86,4.13,1
+ORD10707,WH-West,West Zone,2.6,Van,28.8,Urgent,Clear,Low,24.0,0.5,0.54,0
+ORD10708,WH-West,South Zone,35.0,Truck,2.8,Standard,Clear,Medium,26.3,1.92,3.47,1
+ORD10709,WH-West,South Zone,58.0,Express,16.2,Standard,Clear,Medium,68.4,2.46,3.81,1
+ORD10710,WH-West,East Zone,36.5,Express,9.4,Standard,Clear,Medium,22.5,1.82,1.88,0
+ORD10711,WH-East,City Center,59.1,Van,12.1,Standard,Clear,Medium,18.8,2.55,3.98,1
+ORD10712,WH-South,South Zone,20.2,Van,5.8,High,Cloudy,Low,43.8,1.36,1.35,0
+ORD10713,WH-North,South Zone,65.4,Van,17.6,Standard,Cloudy,Medium,10.1,2.99,4.94,1
+ORD10714,WH-West,Suburban,47.9,Bike,28.8,Standard,Clear,High,32.2,2.31,4.59,1
+ORD10715,WH-West,North Zone,18.4,Bike,15.3,Urgent,Clear,Medium,63.7,1.19,2.34,1
+ORD10716,WH-West,Suburban,20.5,Van,2.9,Urgent,Clear,Low,19.5,1.2,1.27,0
+ORD10717,WH-East,Suburban,51.0,Truck,18.8,Urgent,Clear,Low,14.2,2.18,3.08,1
+ORD10718,WH-West,West Zone,66.7,Bike,10.5,Standard,Rain,Low,17.0,3.12,4.77,1
+ORD10719,WH-West,City Center,34.4,Bike,25.7,High,Clear,Low,45.8,1.64,2.98,1
+ORD10720,WH-West,North Zone,22.1,Truck,13.3,Standard,Clear,Medium,48.5,1.37,2.76,1
+ORD10721,WH-South,East Zone,69.6,Truck,6.2,Standard,Clear,Medium,28.8,3.11,4.7,1
+ORD10722,WH-East,East Zone,54.2,Truck,6.1,Standard,Rain,Medium,43.2,2.37,4.54,1
+ORD10723,WH-West,South Zone,37.0,Van,23.2,Standard,Cloudy,Medium,51.7,1.95,3.68,1
+ORD10724,WH-North,South Zone,40.1,Truck,8.3,Standard,Clear,High,56.4,2.02,4.17,1
+ORD10725,WH-North,East Zone,17.9,Bike,23.1,Standard,Cloudy,Low,32.0,1.35,1.43,0
+ORD10726,WH-North,South Zone,50.9,Express,6.6,High,Cloudy,Medium,8.0,2.26,3.54,1
+ORD10727,WH-East,City Center,30.0,Bike,10.0,Standard,Storm,High,25.1,1.42,4.6,1
+ORD10728,WH-East,Suburban,79.7,Bike,14.2,Standard,Clear,Low,29.9,3.29,5.12,1
+ORD10729,WH-North,South Zone,39.5,Van,28.3,Standard,Rain,Low,31.9,1.94,2.97,1
+ORD10730,WH-West,West Zone,39.9,Truck,28.0,Urgent,Rain,High,35.7,1.93,4.12,1
+ORD10731,WH-East,South Zone,46.1,Van,6.6,Standard,Rain,Medium,48.4,2.1,4.04,1
+ORD10732,WH-North,North Zone,73.5,Van,11.1,Standard,Cloudy,Medium,50.3,2.9,4.36,1
+ORD10733,WH-North,City Center,64.5,Bike,4.9,High,Cloudy,Low,32.9,2.86,4.24,1
+ORD10734,WH-West,North Zone,37.2,Express,15.5,High,Clear,Medium,48.2,2.07,3.0,1
+ORD10735,WH-South,North Zone,58.1,Van,14.1,Standard,Rain,Medium,39.3,2.63,4.12,1
+ORD10736,WH-East,West Zone,47.7,Truck,27.1,High,Cloudy,Low,35.8,2.28,3.48,1
+ORD10737,WH-West,City Center,40.4,Bike,27.9,High,Cloudy,Medium,45.9,2.01,3.66,1
+ORD10738,WH-North,City Center,17.0,Van,11.8,High,Clear,Low,35.9,1.15,1.22,0
+ORD10739,WH-North,City Center,38.2,Truck,15.0,Standard,Cloudy,Medium,59.7,1.98,3.73,1
+ORD10740,WH-West,City Center,21.2,Bike,26.9,High,Rain,Low,17.7,1.3,2.11,1
+ORD10741,WH-East,City Center,73.4,Bike,24.3,Standard,Clear,Low,28.8,3.08,4.56,1
+ORD10742,WH-South,West Zone,28.2,Van,0.6,Standard,Rain,Low,33.5,1.41,2.81,1
+ORD10743,WH-South,South Zone,76.3,Truck,9.9,Standard,Cloudy,Low,40.3,3.2,5.17,1
+ORD10744,WH-North,North Zone,43.6,Bike,12.9,Standard,Rain,High,50.2,2.09,4.24,1
+ORD10745,WH-East,City Center,51.3,Truck,7.3,Standard,Clear,Low,34.7,2.29,4.01,1
+ORD10746,WH-South,South Zone,44.3,Van,6.4,High,Clear,Medium,17.9,2.12,3.48,1
+ORD10747,WH-East,South Zone,12.1,Bike,1.6,Standard,Rain,Low,45.1,0.98,1.01,0
+ORD10748,WH-East,North Zone,31.3,Van,19.5,Standard,Clear,Medium,44.1,1.72,1.71,0
+ORD10749,WH-North,West Zone,9.7,Bike,8.2,Standard,Rain,High,11.7,1.0,2.5,1
+ORD10750,WH-South,East Zone,50.6,Van,2.0,Standard,Clear,Low,35.0,2.32,3.52,1
+ORD10751,WH-West,East Zone,36.9,Express,7.3,Urgent,Cloudy,High,18.9,1.66,3.51,1
+ORD10752,WH-North,South Zone,62.7,Truck,24.2,Standard,Clear,Low,27.0,2.7,4.09,1
+ORD10753,WH-South,Suburban,19.2,Van,25.6,Standard,Cloudy,Medium,24.2,1.19,1.17,0
+ORD10754,WH-South,Suburban,14.8,Van,14.8,Standard,Clear,Medium,44.7,0.81,2.2,1
+ORD10755,WH-South,North Zone,33.7,Van,12.8,Standard,Clear,High,36.4,1.87,3.81,1
+ORD10756,WH-South,East Zone,74.3,Express,29.3,Standard,Clear,Medium,19.6,3.17,4.75,1
+ORD10757,WH-South,South Zone,57.4,Express,6.4,High,Clear,Medium,45.6,2.6,4.24,1
+ORD10758,WH-East,West Zone,34.7,Truck,6.9,Urgent,Storm,Low,20.8,1.9,3.9,1
+ORD10759,WH-North,East Zone,42.3,Truck,9.1,Standard,Storm,Low,39.0,1.94,4.38,1
+ORD10760,WH-East,South Zone,8.6,Bike,5.6,High,Clear,High,25.2,0.88,2.22,1
+ORD10761,WH-West,South Zone,78.8,Express,11.7,High,Cloudy,Medium,30.6,3.3,5.2,1
+ORD10762,WH-South,City Center,54.0,Truck,27.4,High,Clear,Medium,41.1,2.41,4.12,1
+ORD10763,WH-North,West Zone,24.3,Truck,18.7,Standard,Cloudy,High,41.3,1.28,3.52,1
+ORD10764,WH-South,City Center,47.7,Truck,12.7,Standard,Rain,Medium,51.0,2.4,4.13,1
+ORD10765,WH-North,North Zone,10.5,Bike,28.1,Standard,Rain,High,34.0,0.83,2.95,1
+ORD10766,WH-East,City Center,77.3,Van,1.9,High,Clear,Medium,38.7,3.34,4.81,1
+ORD10767,WH-North,City Center,15.6,Bike,6.7,High,Rain,Medium,29.7,0.83,1.9,1
+ORD10768,WH-West,East Zone,52.5,Truck,17.2,Standard,Clear,High,37.2,2.52,4.91,1
+ORD10769,WH-West,Suburban,21.1,Bike,18.7,Standard,Storm,Low,40.3,1.38,3.04,1
+ORD10770,WH-North,South Zone,58.0,Van,1.7,Urgent,Clear,Low,36.8,2.58,4.04,1
+ORD10771,WH-North,West Zone,62.6,Truck,12.4,High,Cloudy,Medium,13.4,2.71,4.21,1
+ORD10772,WH-North,City Center,54.5,Truck,19.7,Urgent,Cloudy,Low,42.0,2.49,4.08,1
+ORD10773,WH-North,West Zone,49.9,Bike,21.1,High,Cloudy,Medium,39.4,2.56,3.99,1
+ORD10774,WH-West,Suburban,71.6,Van,19.3,Standard,Clear,High,26.8,2.85,5.17,1
+ORD10775,WH-South,Suburban,8.1,Truck,10.0,Standard,Rain,Medium,19.6,0.88,2.08,1
+ORD10776,WH-North,City Center,27.8,Truck,3.3,High,Clear,Medium,52.7,1.38,2.79,1
+ORD10777,WH-North,North Zone,21.4,Truck,13.1,Standard,Cloudy,High,40.9,1.26,2.83,1
+ORD10778,WH-West,City Center,79.1,Bike,4.3,Standard,Clear,Medium,32.3,3.3,5.19,1
+ORD10779,WH-West,East Zone,32.4,Bike,28.5,High,Clear,Medium,21.4,1.61,2.67,1
+ORD10780,WH-East,South Zone,59.1,Bike,14.5,Standard,Cloudy,Medium,25.1,2.61,4.55,1
+ORD10781,WH-North,North Zone,55.4,Van,9.9,High,Clear,High,50.6,2.34,4.43,1
+ORD10782,WH-East,City Center,18.5,Bike,23.1,Standard,Clear,Medium,36.7,1.28,1.35,0
+ORD10783,WH-West,West Zone,20.6,Truck,15.2,Urgent,Clear,High,31.4,1.02,2.8,1
+ORD10784,WH-West,North Zone,23.9,Van,9.6,Standard,Clear,High,41.1,1.42,2.87,1
+ORD10785,WH-South,North Zone,34.1,Van,24.5,Standard,Rain,Medium,25.2,1.68,3.24,1
+ORD10786,WH-North,City Center,20.3,Van,26.1,High,Rain,Medium,53.0,1.08,2.18,1
+ORD10787,WH-East,North Zone,3.5,Bike,20.4,Standard,Clear,High,51.2,0.65,0.72,0
+ORD10788,WH-West,West Zone,70.6,Bike,1.9,High,Clear,Medium,29.4,2.83,4.73,1
+ORD10789,WH-West,Suburban,77.3,Bike,17.2,High,Clear,High,27.5,3.27,5.66,1
+ORD10790,WH-East,North Zone,28.6,Truck,23.0,Standard,Clear,High,8.0,1.35,2.82,1
+ORD10791,WH-South,Suburban,28.4,Truck,4.5,Standard,Cloudy,Medium,17.2,1.57,1.63,0
+ORD10792,WH-West,West Zone,2.6,Van,7.2,Standard,Cloudy,Medium,18.9,0.5,0.49,0
+ORD10793,WH-North,City Center,55.1,Van,26.5,Standard,Clear,High,36.6,2.41,4.55,1
+ORD10794,WH-West,South Zone,66.4,Truck,1.1,Urgent,Clear,High,34.1,2.91,5.34,1
+ORD10795,WH-North,North Zone,13.4,Van,22.7,High,Clear,Medium,18.9,0.89,0.92,0
+ORD10796,WH-East,South Zone,14.5,Van,14.5,High,Rain,Low,31.6,1.01,1.01,0
+ORD10797,WH-North,West Zone,63.6,Truck,13.7,High,Storm,Medium,41.1,2.59,5.77,1
+ORD10798,WH-East,North Zone,50.1,Bike,0.7,Standard,Clear,Medium,41.3,2.36,4.03,1
+ORD10799,WH-North,Suburban,5.5,Express,24.7,Urgent,Clear,Medium,15.2,0.91,0.73,0
+ORD10800,WH-East,East Zone,50.6,Express,11.1,High,Rain,Medium,33.5,2.64,4.72,1
+ORD10801,WH-North,South Zone,26.1,Bike,16.5,High,Rain,Medium,18.4,1.44,2.53,1
+ORD10802,WH-South,North Zone,30.8,Truck,20.5,High,Clear,Medium,45.8,1.69,2.65,1
+ORD10803,WH-North,South Zone,62.0,Bike,21.2,Standard,Clear,Low,44.4,2.5,4.2,1
+ORD10804,WH-North,North Zone,65.3,Bike,28.7,High,Clear,Medium,24.2,3.01,4.27,1
+ORD10805,WH-South,City Center,33.2,Van,16.2,Standard,Cloudy,Medium,25.8,1.78,2.9,1
+ORD10806,WH-West,Suburban,75.9,Truck,12.3,Standard,Clear,Low,29.5,3.15,5.53,1
+ORD10807,WH-West,South Zone,33.7,Bike,28.6,Standard,Clear,Low,8.0,1.85,1.84,0
+ORD10808,WH-North,East Zone,62.2,Truck,19.4,Urgent,Cloudy,Medium,42.0,2.69,4.9,1
+ORD10809,WH-South,East Zone,39.7,Truck,9.3,High,Clear,Medium,31.7,1.86,1.88,0
+ORD10810,WH-North,West Zone,72.0,Truck,4.2,High,Rain,Low,46.6,3.13,5.68,1
+ORD10811,WH-East,North Zone,72.8,Van,25.4,High,Clear,High,21.8,2.97,4.94,1
+ORD10812,WH-East,South Zone,8.8,Truck,11.2,Standard,Clear,Medium,27.6,0.94,0.91,0
+ORD10813,WH-North,West Zone,75.0,Van,20.0,Urgent,Cloudy,High,19.9,3.05,5.21,1
+ORD10814,WH-West,South Zone,66.4,Van,14.4,Standard,Clear,Medium,22.9,2.75,4.5,1
+ORD10815,WH-West,North Zone,63.7,Van,6.4,Standard,Storm,Medium,20.8,2.67,5.69,1
+ORD10816,WH-North,East Zone,17.7,Bike,18.2,Standard,Cloudy,High,47.0,1.22,2.78,1
+ORD10817,WH-North,City Center,64.8,Van,2.3,High,Clear,Medium,26.6,2.74,4.21,1
+ORD10818,WH-East,East Zone,68.3,Truck,12.7,High,Cloudy,Medium,36.5,2.78,5.33,1
+ORD10819,WH-West,West Zone,24.6,Van,16.6,Standard,Clear,Low,30.4,1.31,1.38,0
+ORD10820,WH-North,Suburban,76.3,Express,13.4,Standard,Rain,Medium,19.8,3.22,4.7,1
+ORD10821,WH-East,City Center,5.9,Van,22.6,High,Clear,Low,33.0,0.57,0.6,0
+ORD10822,WH-West,West Zone,13.7,Truck,24.9,Standard,Cloudy,Low,42.2,0.85,0.85,0
+ORD10823,WH-South,North Zone,43.9,Express,23.3,High,Clear,Low,20.5,2.32,3.82,1
+ORD10824,WH-East,City Center,46.9,Bike,1.6,Urgent,Clear,Low,47.7,2.07,3.05,1
+ORD10825,WH-West,West Zone,52.3,Van,6.2,Standard,Rain,High,24.8,2.33,5.01,1
+ORD10826,WH-West,North Zone,3.3,Bike,16.3,Standard,Rain,Low,29.2,0.57,1.49,1
+ORD10827,WH-East,East Zone,76.9,Truck,28.1,High,Clear,Medium,41.4,3.2,5.05,1
+ORD10828,WH-South,Suburban,5.5,Truck,25.1,High,Clear,High,27.0,0.77,1.75,1
+ORD10829,WH-East,North Zone,13.2,Van,25.4,Standard,Rain,Medium,35.5,1.09,2.34,1
+ORD10830,WH-West,South Zone,3.1,Van,9.4,Urgent,Rain,Low,34.2,0.57,1.71,1
+ORD10831,WH-North,North Zone,46.2,Bike,13.2,Standard,Clear,Medium,36.6,2.0,3.22,1
+ORD10832,WH-North,North Zone,74.7,Truck,14.4,Standard,Clear,Medium,8.0,3.32,4.96,1
+ORD10833,WH-East,Suburban,53.9,Truck,5.1,High,Clear,Medium,13.0,2.41,3.81,1
+ORD10834,WH-West,South Zone,66.2,Bike,1.4,High,Rain,High,42.4,3.07,5.84,1
+ORD10835,WH-North,West Zone,3.0,Bike,28.4,Standard,Clear,High,47.4,0.5,1.73,1
+ORD10836,WH-West,West Zone,44.3,Van,7.6,High,Clear,Medium,24.1,2.11,2.17,0
+ORD10837,WH-East,North Zone,37.8,Bike,7.6,Standard,Rain,Medium,32.1,2.08,4.39,1
+ORD10838,WH-North,South Zone,40.9,Van,3.0,Standard,Clear,Medium,38.5,1.92,1.91,0
+ORD10839,WH-West,South Zone,7.6,Bike,27.9,Standard,Clear,Low,43.3,0.74,0.79,0
+ORD10840,WH-North,Suburban,55.4,Bike,17.6,High,Clear,High,10.7,2.51,4.34,1
+ORD10841,WH-East,East Zone,41.3,Express,20.2,Standard,Clear,Low,24.4,1.91,2.93,1
+ORD10842,WH-West,West Zone,61.7,Van,27.4,Standard,Clear,Medium,31.0,2.67,3.98,1
+ORD10843,WH-North,Suburban,39.9,Van,10.7,Standard,Cloudy,High,43.4,1.88,4.2,1
+ORD10844,WH-East,City Center,13.7,Van,18.8,High,Clear,Medium,65.0,0.91,2.19,1
+ORD10845,WH-North,West Zone,52.6,Van,1.6,High,Cloudy,Medium,32.3,2.53,4.13,1
+ORD10846,WH-North,Suburban,15.4,Van,6.0,High,Rain,Medium,18.1,1.11,1.14,0
+ORD10847,WH-South,West Zone,70.0,Express,25.0,Standard,Rain,High,39.8,3.03,5.89,1
+ORD10848,WH-South,East Zone,49.8,Van,23.1,High,Clear,Medium,50.9,2.38,3.75,1
+ORD10849,WH-East,City Center,14.3,Van,10.8,Standard,Clear,High,36.3,0.98,2.56,1
+ORD10850,WH-South,East Zone,77.1,Bike,11.6,High,Clear,Low,24.1,3.16,4.58,1
+ORD10851,WH-East,City Center,42.4,Truck,16.2,Urgent,Clear,High,49.5,1.94,4.04,1
+ORD10852,WH-South,North Zone,7.7,Bike,0.5,Standard,Clear,High,43.0,0.78,1.87,1
+ORD10853,WH-North,Suburban,50.9,Van,7.6,High,Cloudy,Low,22.7,2.19,2.27,0
+ORD10854,WH-East,City Center,21.7,Truck,6.6,Standard,Clear,Medium,39.6,1.21,2.37,1
+ORD10855,WH-East,East Zone,64.7,Van,7.9,Standard,Clear,Low,47.0,2.75,4.54,1
+ORD10856,WH-North,West Zone,65.8,Van,24.3,Standard,Clear,Medium,49.2,3.1,5.4,1
+ORD10857,WH-East,City Center,78.4,Express,8.8,Standard,Cloudy,Medium,34.2,2.97,4.37,1
+ORD10858,WH-East,Suburban,41.1,Van,6.1,Standard,Clear,Medium,30.7,1.95,3.57,1
+ORD10859,WH-South,City Center,37.5,Truck,15.4,High,Cloudy,Low,49.7,2.05,4.02,1
+ORD10860,WH-East,South Zone,60.8,Truck,26.0,Standard,Clear,Low,20.5,2.69,4.07,1
+ORD10861,WH-West,West Zone,12.3,Van,7.6,High,Rain,Low,40.3,1.03,2.39,1
+ORD10862,WH-North,Suburban,44.7,Express,2.8,Standard,Rain,Medium,18.6,2.11,3.35,1
+ORD10863,WH-South,Suburban,44.6,Van,11.0,Standard,Clear,Medium,47.8,2.01,3.21,1
+ORD10864,WH-South,North Zone,9.0,Bike,22.6,High,Clear,High,31.9,0.55,1.68,1
+ORD10865,WH-West,East Zone,34.6,Express,16.7,Standard,Clear,Medium,50.2,1.76,3.13,1
+ORD10866,WH-North,North Zone,68.6,Truck,24.6,Standard,Clear,Medium,40.9,2.86,4.78,1
+ORD10867,WH-North,Suburban,68.8,Express,28.8,High,Cloudy,High,20.3,2.86,4.76,1
+ORD10868,WH-South,West Zone,9.7,Van,23.9,Standard,Rain,Medium,52.1,0.79,2.23,1
+ORD10869,WH-East,City Center,9.1,Truck,18.3,Standard,Cloudy,High,53.6,1.03,2.38,1
+ORD10870,WH-South,City Center,22.5,Van,15.1,Standard,Rain,Medium,45.6,1.59,3.05,1
+ORD10871,WH-North,West Zone,70.2,Bike,1.7,Urgent,Clear,Low,28.9,3.03,4.71,1
+ORD10872,WH-West,Suburban,12.1,Express,29.5,High,Clear,Low,31.3,0.88,0.93,0
+ORD10873,WH-South,City Center,58.2,Van,11.8,High,Cloudy,Medium,36.7,2.44,4.0,1
+ORD10874,WH-North,City Center,9.9,Bike,5.0,High,Clear,Low,26.6,0.91,0.9,0
+ORD10875,WH-South,City Center,50.6,Van,20.2,Standard,Cloudy,Medium,55.3,2.52,4.13,1
+ORD10876,WH-East,East Zone,29.8,Truck,8.9,Standard,Clear,Medium,36.7,1.53,3.23,1
+ORD10877,WH-South,East Zone,63.5,Truck,17.8,High,Clear,Medium,8.0,2.48,3.9,1
+ORD10878,WH-South,South Zone,20.2,Express,17.8,Standard,Storm,Medium,39.1,1.3,3.34,1
+ORD10879,WH-North,North Zone,51.9,Bike,13.6,Standard,Clear,Low,30.8,2.47,3.93,1
+ORD10880,WH-North,West Zone,20.4,Van,25.2,Standard,Storm,Medium,34.1,1.04,3.16,1
+ORD10881,WH-North,West Zone,57.7,Van,8.3,Standard,Storm,Medium,30.6,2.58,5.16,1
+ORD10882,WH-South,West Zone,70.1,Van,13.7,Urgent,Rain,High,47.7,3.06,5.98,1
+ORD10883,WH-East,South Zone,11.9,Van,16.4,Standard,Cloudy,Medium,48.4,0.92,0.89,0
+ORD10884,WH-West,East Zone,69.6,Van,20.1,Standard,Cloudy,High,38.4,2.89,4.99,1
+ORD10885,WH-West,Suburban,48.3,Express,23.6,Standard,Rain,High,30.9,2.35,4.32,1
+ORD10886,WH-North,Suburban,11.9,Truck,12.1,Urgent,Clear,Medium,37.5,0.88,1.83,1
+ORD10887,WH-North,South Zone,35.3,Truck,19.6,Standard,Clear,Low,35.2,1.58,2.88,1
+ORD10888,WH-South,Suburban,14.5,Van,4.9,Standard,Cloudy,Medium,25.4,0.77,0.73,0
+ORD10889,WH-West,West Zone,56.6,Express,28.0,High,Clear,Medium,41.9,2.67,4.11,1
+ORD10890,WH-North,North Zone,61.2,Bike,11.8,High,Clear,Medium,40.5,2.76,4.23,1
+ORD10891,WH-East,City Center,10.3,Van,22.0,Standard,Clear,Medium,53.5,0.88,0.92,0
+ORD10892,WH-East,East Zone,41.5,Bike,1.1,Standard,Cloudy,Medium,50.1,1.93,3.8,1
+ORD10893,WH-North,East Zone,65.5,Truck,6.6,Standard,Rain,Medium,26.8,2.78,5.58,1
+ORD10894,WH-North,South Zone,75.0,Van,14.9,Standard,Clear,Medium,44.8,3.05,5.23,1
+ORD10895,WH-West,East Zone,42.1,Truck,26.4,Standard,Rain,Low,23.6,1.95,3.55,1
+ORD10896,WH-West,West Zone,76.1,Truck,16.1,Standard,Cloudy,High,43.4,2.96,6.46,1
+ORD10897,WH-South,Suburban,43.8,Van,27.9,Standard,Rain,Low,28.8,1.98,3.29,1
+ORD10898,WH-West,West Zone,32.7,Express,14.8,Standard,Cloudy,Low,22.7,1.63,1.59,0
+ORD10899,WH-East,South Zone,68.2,Bike,15.0,High,Rain,Medium,38.4,3.01,5.32,1
+ORD10900,WH-East,West Zone,40.5,Bike,4.0,Urgent,Clear,Medium,8.0,1.94,1.93,0
+ORD10901,WH-North,Suburban,38.8,Truck,24.2,High,Rain,Medium,14.0,1.98,3.51,1
+ORD10902,WH-West,North Zone,40.2,Truck,7.8,Standard,Clear,Low,32.9,2.1,3.12,1
+ORD10903,WH-South,South Zone,68.0,Bike,27.0,Standard,Rain,Medium,36.0,3.06,5.56,1
+ORD10904,WH-East,North Zone,66.9,Truck,27.4,Urgent,Storm,Medium,33.6,2.95,6.58,1
+ORD10905,WH-East,City Center,33.5,Van,28.3,Standard,Clear,High,16.0,1.7,3.18,1
+ORD10906,WH-South,North Zone,28.0,Truck,15.8,Standard,Clear,High,25.2,1.38,3.41,1
+ORD10907,WH-South,City Center,40.4,Bike,20.5,Standard,Rain,Medium,39.7,2.03,3.63,1
+ORD10908,WH-East,City Center,46.7,Truck,23.5,High,Clear,Medium,42.0,2.37,3.71,1
+ORD10909,WH-East,North Zone,20.6,Van,4.4,High,Rain,Medium,34.8,1.28,1.32,0
+ORD10910,WH-South,South Zone,63.9,Bike,18.2,Standard,Clear,Low,48.9,3.01,4.39,1
+ORD10911,WH-East,Suburban,39.9,Van,1.5,Standard,Clear,Medium,39.8,1.74,3.17,1
+ORD10912,WH-North,West Zone,28.1,Van,15.2,Urgent,Storm,Medium,29.0,1.37,3.32,1
+ORD10913,WH-North,West Zone,10.3,Van,5.1,Standard,Cloudy,High,31.6,0.97,2.34,1
+ORD10914,WH-South,Suburban,20.6,Van,5.9,High,Rain,Low,18.2,1.27,1.28,0
+ORD10915,WH-West,City Center,76.0,Bike,11.3,High,Clear,Medium,33.7,3.37,5.13,1
+ORD10916,WH-South,City Center,25.8,Truck,13.3,High,Cloudy,Medium,48.3,1.42,3.44,1
+ORD10917,WH-South,South Zone,15.2,Van,18.9,Standard,Cloudy,Medium,43.2,0.94,0.98,0
+ORD10918,WH-West,East Zone,37.9,Express,2.7,Standard,Cloudy,Low,51.8,1.83,3.04,1
+ORD10919,WH-West,North Zone,26.0,Express,15.4,Standard,Cloudy,High,31.4,1.24,2.41,1
+ORD10920,WH-West,City Center,4.7,Express,5.9,High,Cloudy,Medium,51.2,0.53,0.5,0
+ORD10921,WH-North,West Zone,27.2,Van,17.4,Urgent,Clear,Medium,35.7,1.59,2.82,1
+ORD10922,WH-East,South Zone,44.4,Truck,19.3,Standard,Clear,Low,52.7,2.19,3.77,1
+ORD10923,WH-North,North Zone,45.0,Express,16.9,Standard,Rain,Medium,34.7,2.15,3.12,1
+ORD10924,WH-East,South Zone,29.8,Bike,22.3,Urgent,Clear,Medium,46.5,1.36,2.53,1
+ORD10925,WH-North,North Zone,36.9,Van,10.4,High,Cloudy,Low,52.7,1.77,3.08,1
+ORD10926,WH-East,North Zone,77.3,Van,23.1,Urgent,Clear,Low,35.7,3.11,4.97,1
+ORD10927,WH-North,Suburban,31.4,Truck,13.3,Standard,Cloudy,High,37.6,1.76,4.0,1
+ORD10928,WH-West,City Center,22.1,Express,14.8,Standard,Cloudy,Low,50.5,1.22,1.24,0
+ORD10929,WH-South,South Zone,21.0,Truck,19.6,High,Clear,Low,33.4,1.12,1.18,0
+ORD10930,WH-North,South Zone,37.7,Truck,1.0,High,Clear,Medium,19.1,1.85,3.11,1
+ORD10931,WH-East,Suburban,61.2,Van,19.8,Standard,Clear,High,60.7,2.61,5.14,1
+ORD10932,WH-West,West Zone,18.1,Bike,18.7,Standard,Cloudy,Low,29.4,1.32,1.28,0
+ORD10933,WH-North,West Zone,57.3,Bike,9.6,Standard,Rain,Medium,36.9,2.46,4.58,1
+ORD10934,WH-North,City Center,3.6,Truck,3.0,Standard,Clear,Low,48.9,0.5,0.46,0
+ORD10935,WH-West,City Center,34.7,Bike,3.2,Standard,Cloudy,Low,27.7,1.48,1.49,0
+ORD10936,WH-North,East Zone,62.5,Express,27.7,Urgent,Clear,Low,25.9,2.73,2.74,0
+ORD10937,WH-South,Suburban,28.4,Van,20.8,Standard,Clear,High,38.0,1.45,1.44,0
+ORD10938,WH-North,West Zone,46.0,Truck,4.2,High,Rain,Low,13.5,1.97,3.53,1
+ORD10939,WH-South,North Zone,18.0,Van,11.0,Standard,Clear,Low,31.5,1.29,1.26,0
+ORD10940,WH-South,South Zone,59.9,Bike,18.0,High,Clear,Medium,37.9,2.72,4.11,1
+ORD10941,WH-West,City Center,6.1,Truck,25.1,Urgent,Clear,High,34.8,0.71,0.76,0
+ORD10942,WH-North,South Zone,68.5,Bike,1.8,Standard,Clear,Low,16.5,3.11,4.66,1
+ORD10943,WH-West,South Zone,17.5,Bike,7.5,Standard,Clear,Medium,54.1,1.2,2.22,1
+ORD10944,WH-North,East Zone,70.2,Truck,26.7,Standard,Clear,Low,36.2,2.91,4.66,1
+ORD10945,WH-North,West Zone,29.5,Express,0.8,Standard,Cloudy,Medium,52.2,1.43,3.06,1
+ORD10946,WH-East,City Center,58.4,Truck,6.4,High,Clear,Medium,31.9,2.68,3.89,1
+ORD10947,WH-North,South Zone,26.9,Van,28.8,Urgent,Cloudy,Medium,27.4,1.51,1.5,0
+ORD10948,WH-West,City Center,72.7,Bike,18.6,Standard,Clear,Medium,38.2,3.12,5.12,1
+ORD10949,WH-South,North Zone,11.9,Bike,8.2,Standard,Clear,Medium,32.4,0.82,1.95,1
+ORD10950,WH-North,East Zone,15.9,Van,2.5,Standard,Cloudy,Low,20.9,1.14,1.11,0
+ORD10951,WH-East,North Zone,40.5,Express,1.3,High,Storm,Medium,52.6,1.86,4.87,1
+ORD10952,WH-West,City Center,8.4,Express,7.7,Standard,Clear,Low,27.5,0.79,0.78,0
+ORD10953,WH-North,City Center,17.3,Van,26.5,Standard,Rain,High,12.9,1.29,2.77,1
+ORD10954,WH-West,West Zone,75.6,Express,12.8,High,Cloudy,High,50.9,3.12,5.6,1
+ORD10955,WH-East,South Zone,78.2,Van,21.7,High,Cloudy,High,28.9,3.1,5.44,1
+ORD10956,WH-East,South Zone,31.3,Van,27.6,Standard,Cloudy,High,27.7,1.49,3.34,1
+ORD10957,WH-West,North Zone,74.0,Van,12.5,High,Clear,Medium,13.8,3.26,4.68,1
+ORD10958,WH-North,East Zone,44.5,Express,6.1,Standard,Clear,Medium,55.9,2.12,3.53,1
+ORD10959,WH-South,Suburban,23.0,Bike,15.8,Standard,Cloudy,Low,19.5,1.31,1.3,0
+ORD10960,WH-East,South Zone,56.8,Van,27.3,High,Clear,Medium,35.7,2.47,3.92,1
+ORD10961,WH-North,West Zone,53.4,Truck,24.2,High,Rain,Medium,46.0,2.47,5.53,1
+ORD10962,WH-North,North Zone,79.2,Bike,2.4,Standard,Clear,Medium,40.1,3.23,5.46,1
+ORD10963,WH-South,North Zone,22.7,Van,20.9,Standard,Clear,High,34.3,1.35,2.97,1
+ORD10964,WH-East,Suburban,54.4,Express,17.4,Standard,Cloudy,Low,14.6,2.36,3.7,1
+ORD10965,WH-East,West Zone,6.1,Bike,27.3,Standard,Clear,Medium,25.3,0.61,0.35,0
+ORD10966,WH-North,East Zone,10.9,Truck,4.1,Standard,Cloudy,High,37.3,0.81,2.82,1
+ORD10967,WH-North,West Zone,2.3,Express,16.3,Standard,Cloudy,Low,25.6,0.54,0.4,0
+ORD10968,WH-South,East Zone,80.0,Truck,26.4,Standard,Rain,Medium,37.4,3.35,5.95,1
+ORD10969,WH-South,West Zone,64.6,Express,12.6,High,Rain,High,43.2,2.84,5.39,1
+ORD10970,WH-East,West Zone,63.4,Bike,14.7,High,Cloudy,Medium,46.6,2.32,4.51,1
+ORD10971,WH-West,City Center,41.8,Bike,2.6,High,Cloudy,Medium,20.3,1.9,3.13,1
+ORD10972,WH-East,North Zone,25.4,Van,8.7,Standard,Rain,Low,61.4,1.36,2.43,1
+ORD10973,WH-North,West Zone,13.8,Express,10.1,Urgent,Clear,Medium,47.2,1.17,1.22,0
+ORD10974,WH-East,Suburban,24.2,Truck,28.4,High,Clear,High,35.0,1.23,2.63,1
+ORD10975,WH-West,West Zone,31.3,Van,8.8,High,Clear,Medium,48.1,1.64,1.7,0
+ORD10976,WH-South,South Zone,61.0,Van,14.1,High,Clear,Medium,63.4,2.86,4.88,1
+ORD10977,WH-West,North Zone,44.1,Truck,20.3,Urgent,Cloudy,Low,20.7,1.92,3.33,1
+ORD10978,WH-West,South Zone,8.0,Truck,5.3,Standard,Cloudy,Low,32.3,0.83,2.11,1
+ORD10979,WH-West,North Zone,3.4,Bike,14.9,Standard,Cloudy,High,8.0,0.53,0.6,0
+ORD10980,WH-South,South Zone,10.0,Express,22.3,High,Clear,Medium,37.3,0.8,0.75,0
+ORD10981,WH-West,West Zone,34.0,Van,26.1,High,Cloudy,Medium,39.4,1.62,2.73,1
+ORD10982,WH-West,West Zone,74.8,Bike,19.0,High,Clear,Low,34.5,3.08,5.18,1
+ORD10983,WH-West,City Center,51.7,Van,20.2,Standard,Cloudy,Medium,27.1,2.67,4.26,1
+ORD10984,WH-North,Suburban,64.5,Express,4.2,Standard,Cloudy,High,10.4,2.9,4.81,1
+ORD10985,WH-West,South Zone,38.4,Bike,28.4,Standard,Clear,Medium,39.5,2.0,3.19,1
+ORD10986,WH-South,East Zone,30.2,Truck,4.4,Urgent,Clear,Low,55.5,1.64,3.26,1
+ORD10987,WH-West,City Center,10.5,Bike,23.4,Standard,Clear,Medium,27.9,0.68,0.64,0
+ORD10988,WH-West,South Zone,70.3,Van,8.3,Standard,Rain,High,40.3,3.06,5.98,1
+ORD10989,WH-South,South Zone,63.1,Truck,28.0,Standard,Rain,Medium,16.2,2.88,4.88,1
+ORD10990,WH-West,City Center,15.1,Bike,21.7,Standard,Cloudy,High,40.5,0.94,2.27,1
+ORD10991,WH-South,West Zone,42.0,Truck,22.7,Urgent,Clear,Medium,33.3,2.12,3.96,1
+ORD10992,WH-West,South Zone,40.0,Truck,7.0,High,Clear,High,25.9,2.01,4.15,1
+ORD10993,WH-South,West Zone,50.8,Truck,13.6,High,Cloudy,Medium,25.9,2.54,3.84,1
+ORD10994,WH-West,City Center,75.8,Bike,18.7,Standard,Rain,Low,30.3,3.16,4.81,1
+ORD10995,WH-West,West Zone,47.2,Van,23.2,High,Clear,Medium,39.6,2.05,3.79,1
+ORD10996,WH-North,North Zone,44.1,Van,3.6,Standard,Clear,Low,19.3,2.03,2.05,0
+ORD10997,WH-North,East Zone,5.9,Bike,28.9,High,Cloudy,High,30.2,0.88,2.08,1
+ORD10998,WH-West,South Zone,6.9,Bike,26.8,Standard,Clear,High,34.5,0.53,1.63,1
+ORD10999,WH-West,Suburban,16.6,Van,8.5,Standard,Clear,Medium,21.8,0.84,1.67,1
+ORD11000,WH-East,East Zone,4.5,Van,24.8,High,Clear,Medium,56.6,0.67,0.63,0
